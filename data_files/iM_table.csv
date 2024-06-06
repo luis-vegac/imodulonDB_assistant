@@ -1,0 +1,202 @@
+iModulon,regulator_readable,function,category,n_genes,exp_var,precision,recall,category_num
+Sugar Diacid,CdaR,Transport and catabolism of carbohydrate diacids (galacatarate and glucarate),Uncharacterized,14,0.002412749,0.6428571428571429,1,0
+Translation,DksA,Ribosome biogenesis,Uncharacterized,53,0.007469245,0.8301886792452831,0.39285714285714285,1
+ygdT,,Unknown,Uncharacterized,3,0.000344429,,,2
+OxyR,OxyR,"Oxidative stress response, especially peroxide",Uncharacterized,38,0.00174739,0.42105263157894735,0.5517241379310345,3
+FlhDC-2,FlhDC,Flagellum biosynthesis and export,Uncharacterized,43,0.03002112,0.8604651162790697,0.4567901234567901,4
+Osmoprotectant,RpoS and ppGpp and IHF and H-NS,Transport of osmoprotectant glycine betaine,Uncharacterized,4,0.004189025,0.75,0.375,5
+Glutamine,NtrC,Glutamine transport and synthesis,Uncharacterized,9,0.005121961,0.5555555555555556,0.29411764705882354,6
+Sialic Acid,Crp and NanR,N-acetyl-neuraminic acid (or sialic acid) transport and metabolism,Uncharacterized,13,0.001740666,0.6153846153846154,1,7
+yqhI,,Unknown,Uncharacterized,2,0.001515549,,,8
+ROS TALE Amp,,Amplification of DLP12/IS3,Uncharacterized,9,0.004049669,,,9
+Nucleotide Stress,,DNA repair; stringent response signaling via ppGpp; ribosomal biogenesis and stability,Uncharacterized,15,0.005925631,,,10
+Histidine,His-tRNA and DksA,Histidine biosynthesis,Uncharacterized,9,0.002411223,0.8888888888888888,1,11
+UC-4,,Unknown,Uncharacterized,39,0.003195531,,,12
+RpoH,RpoH,Global heat shock response during log-phase; response to high temperature and/or misfolded proteins,Uncharacterized,41,0.003986513,0.8292682926829268,0.24285714285714285,13
+FucR/AllR/AraC,FucR or AllR or AraC,Allantoin/glycolate/glyoxylate/arabinose/fucose transport and catabolism,Uncharacterized,20,0.001173425,1,0.6666666666666666,14
+ldrC,,Unknown,Uncharacterized,1,0.001387528,,,15
+Ferric Citrate,PdhR and HypT and Nac and Crp and Fur and FecI,Ferric citrate transporter; iron uptake under intracellular limitation,Uncharacterized,7,0.000960692,0.7142857142857143,1,16
+Zinc-1,Zur or ZntR or CueR,Zinc sensing and uptake; copper sensing and export,Uncharacterized,14,0.009916591,0.6428571428571429,0.6428571428571429,17
+Methionine,MetJ,Methionine transport and biosynthesis,Uncharacterized,21,0.006689772,0.5238095238095238,0.7333333333333333,18
+Sorbitol,SrlR and GutM and Crp and H-NS,Sorbitol transport and catabolism,Uncharacterized,6,0.002664523,1,0.8571428571428571,19
+Glycerol,Crp and GlpR,Glycerol/glycerol-3-phosphate transport and catabolism,Uncharacterized,11,0.007230759,0.8181818181818182,1,20
+Nucleoside,Crp and CytR,Transport and utilization of ribonucleosides and deoxyribonucleosides,Uncharacterized,11,0.00132602,0.5454545454545454,0.5454545454545454,21
+SoxS,SoxS,"Superoxide/nitric oxide sensing and removal, protection from organic solvents and antibiotics",Uncharacterized,117,0.00416817,0.27350427350427353,0.7619047619047619,22
+thrA KO,,thrA KO and compensatory transcriptional changes,Uncharacterized,5,0.001283269,,,23
+YjfJ,YjfJ,Putative heat responsive regulon,Uncharacterized,4,0.002199634,,,24
+Lrp,Lrp,"Global regulation of amino acid biosynthesis/catabolism, stationary phase, nutrient transport, pili synthesis, 1-carbon metabolism",Uncharacterized,42,0.011047730119156163,0.42857142857142855,0.2608695652173913,25
+baeR KO,,baeR KO,Uncharacterized,54,0.001667123,,,26
+ydaG,,Unknown,Uncharacterized,4,0.001512793,,,27
+ldrA,,Unknown,Uncharacterized,1,0.000552617,,,28
+Quorum Sensing,Crp and LsrR,"Quorum sensing via autoinducer 2, biofilm architecture, foreign DNA stress response; lsrR KO",Uncharacterized,10,0.00230163,0.9,1,29
+IS Elements-2,,Unknown,Uncharacterized,49,0.004801661,,,30
+Nickel,RpoN and NarL and NikR and Fnr,Nickel sensing and uptake,Uncharacterized,5,0.003165659,1,0.8333333333333334,31
+CpxR,CpxR,"Inner membrane damage sensing and repair via protein folding/degradation, chemotaxis, drug efflux, DNA repair, motility",Uncharacterized,53,0.002187613,0.3584905660377358,0.3877551020408163,32
+Curli-2,RpoS and FliZ and CpxR and CsgD and BtsR,Curli secretion and assembly,Uncharacterized,5,0.001803241,0.6,0.42857142857142855,33
+Acid Shock RNA,,Very low pH-responsive acid shock polypeptide,Uncharacterized,3,0.001470916,,,34
+FucR/ExuR,FucR or ExuR,Fucose/galacturonate/glucuronate transport and catabolism,Uncharacterized,14,0.001871302,0.7857142857142857,0.6875,35
+cydB/appC KO,,cydB/appC KO and compensatory regulatory changes,Uncharacterized,11,0.001185757,,,36
+ymdG,,Unknown,Uncharacterized,1,0.000489964,,,37
+EvgA,EvgA,"Glutamate-dependent acid response, drug resistance, alkali metals response",Uncharacterized,15,0.001932825,0.8,0.7058823529411765,38
+Xylose,Crp and XylR,d-Xylose transport and catabolism,Uncharacterized,15,0.001982187,0.4666666666666667,0.875,39
+IS1,,IS1 transcripts,Uncharacterized,9,0.00176384,,,40
+pgi KO,,pgi KO,Uncharacterized,4,0.001000204,,,41
+Biotin,BirA,Biotin biosynthesis,Uncharacterized,8,0.0032899,0.625,1,42
+N Reduction,FlhDC and ModE and NarP and NarL and Fnr,"Electron transfer via nitrate reductases (periplasmic and A), cytochrome c",Uncharacterized,24,0.004966282,0.625,1,43
+FDH-N/NRA,NarL and Fnr,Anaerobic growth on nitrate; formate-to-nitrate electron transfer via formate dehydrogenase N and nitrate reductase A,Uncharacterized,15,0.003483904,0.7333333333333333,0.2037037037037037,44
+Resistance,,Multidrug resistance; stress response to harmful compounds/antibiotics,Uncharacterized,58,0.004146333,,,45
+PAL 10 Del,,Unknown,Uncharacterized,108,0.005210064,,,46
+Biofilm,RpoS and ppGpp and BluR and MarA,"Biofilm formation, acid resistance, cold shock response",Uncharacterized,5,0.002440333,0.8,1,47
+Cytochrome c,FlhDC and IHF and NsrR and NarL and NarP and Fis and Fnr,Cytochrome c-552 and putative cytochrome c-related proteins,Uncharacterized,6,0.003299221,1,0.8571428571428571,48
+BasR,BasR,Lipid A modification and polymixin resistance in the presence of excess iron,Uncharacterized,15,0.001330276,0.6,0.4090909090909091,49
+Sulfoquinovose,CsqR,Sulfoquinovose transport and catabolism,Uncharacterized,10,0.001174364,0.5,1,50
+RpoS,RpoS,Master regulator of global stress response,Uncharacterized,122,0.039127805,0.39344262295081966,0.1476923076923077,51
+lsrB KO,,lsrB KO and compensatory regulatory changes,Uncharacterized,8,0.000309928,,,52
+UC-1,,Unknown,Uncharacterized,27,0.004625493,,,53
+Fur-1,Fur,"Iron sensing and uptake, enterobactin biosynthesis, iron-sulfur cluster activation, iron sequestration",Uncharacterized,32,0.009577588,0.875,0.2204724409448819,54
+ykgR,,Unknown,Uncharacterized,1,0.001250841,,,55
+Sulfate,Cbl and CysB,Cysteine transport and biosynthesis; aliphatic sulfonate utilization and homeostatic response to sulfate starvation,Uncharacterized,17,0.001215163,0.5294117647058824,1,56
+ypaB,,Unknown,Uncharacterized,1,0.000867518,,,57
+Fur-2,Fur,"Iron sensing and uptake, enterobactin biosynthesis, iron-sulfur cluster activation, iron sequestration",Uncharacterized,44,0.0059071,0.6818181818181818,0.23622047244094488,58
+Magnesium,PhoP,Magnesium sensing and transport; magnesium-limitation response,Uncharacterized,21,0.00134584,0.38095238095238093,0.4,59
+Nitrate/Nitrite,NarL and Fnr,Nitrate/nitrite transport and reduction,Uncharacterized,9,0.000791494,0.8888888888888888,0.14814814814814814,60
+glrR KO,,glrR (aka qseF) KO; xylose transport and catabolism,Uncharacterized,7,0.00032152,,,61
+Fnr-1,Fnr,Transition from aerobic to anaerobic growth; anaerobic reductase and hydrogenase activity,Uncharacterized,46,0.013367723425522504,0.6304347826086957,0.097972973,62
+Pyrimidine,PurR or UTP,Pyrimidine transport and biosynthesis,Uncharacterized,13,0.017879276316678627,0.6923076923076923,0.25,63
+Zinc-2,ZraR,Tolerance to high zinc concentration,Uncharacterized,1,0.000826754,1,0.3333333333333333,64
+NRZ,OmpR,Nitrate reduction under microaerobic condition; aerobic to anaerobic transition,Uncharacterized,6,0.004714131,0.8333333333333334,0.15151515151515152,65
+nquinone ALE 3,,ubiC KO and associated adaptive regulatory changes,Uncharacterized,26,0.001768029,,,66
+RpoE,RpoE,Heat shock response; response to high temperature and/or misfolded membrane/periplasmic proteins,Uncharacterized,13,0.001832694,0.9230769230769231,0.096,67
+Cellulose,,Cellulose biosynthesis; biofilm formation; membrane/periplasmic proteins,Uncharacterized,95,0.008280809,,,68
+Phosphate-1,PhoB,"Inorganic phosphate sensing, transport, and production",Uncharacterized,8,0.000895102,1,0.1702127659574468,69
+Salicylic Acid,,Salicylic acid efflux,Uncharacterized,9,0.001064801,,,70
+ymgI,,Unknown,Uncharacterized,4,0.000922993,,,71
+Galactose,RpoS and GalR and GalS and Crp,Galactose transport and catabolism,Uncharacterized,10,0.001523753,0.7,1,72
+trxC Del,,Unknown,Uncharacterized,3,0.001061812,,,73
+ArcA,ArcA,Anaerobiosis; repression of aerobic growth genes during anaerobic growth,Uncharacterized,81,0.012209681631102032,0.3333333333333333,0.15517241379310345,74
+yceO,,Unknown,Uncharacterized,1,0.000626674,,,75
+Potassium,KdpE,Potassium sensing and transport,Uncharacterized,5,0.00078625,0.6,1,76
+ROS TALE Del-1,,Unknown,Uncharacterized,14,0.004317823,,,77
+cyoB/kdpE/qseB KO,,cyoB/kdpE/qseF KO,Uncharacterized,8,0.001447115,,,78
+Isc System,ryhB or IscR,Iron-sulfur cluster biogenesis and insertion,Uncharacterized,11,0.001799254,0.7272727272727273,0.13114754098360656,79
+Thiamine-2,,Thiamine uptake and biosynthesis,Uncharacterized,6,0.002292392,,,80
+crp KO-1,,crp KO and compensatory regulatory changes,Uncharacterized,24,0.004888265,,,81
+SSW SNPs,,Unknown,Uncharacterized,89,0.002433805,,,82
+yafF,,Unknown,Uncharacterized,1,0.000255608,,,83
+NtrC-2,NtrC and RpoN,"Nitrogen assimilation, ammonium transport",Uncharacterized,10,0.00318237,0.8,0.16326530612244897,84
+DNA Damage,LexA,SOS response to DNA damage or inhibition of DNA replication,Uncharacterized,18,0.002154695,0.9444444444444444,0.29310344827586204,85
+UC-3,,Unknown,Uncharacterized,51,0.0076599,,,86
+YieP,YieP,"Cellular membrane synthesis and stress response, 3-hydroxypropanoate tolerance",Uncharacterized,10,0.00106638,0.6,1,87
+Nitrogen,Nac,Nitrogen metabolism under nitrogen limitation,Uncharacterized,32,0.00155053,0.4375,0.5384615384615384,88
+UC-6,,Unknown,Uncharacterized,11,0.002033286,,,89
+Leu/Val/Ile,Lrp and IHF and Ile-tRNA and Leu-tRNA and Val-tRNA and ppGpp,Branched-chain amino acid biosynthesis,Uncharacterized,11,0.002070562,0.45454545454545453,1,90
+NDH-1,NarL and ArcA and IHF and Fnr and Fis and ryhB,"NADH:ubiquinone oxidoreductase I: electron transfer from NADH to quinone pool, proton electrochemical gradient generation for aerobic and anaerobic respiration",Uncharacterized,12,0.001713813,0.75,0.6923076923076923,91
+Crp-1,Crp,Miscellaneous carbon source metabolism,Uncharacterized,61,0.010449583009634944,0.3442622950819672,0.040540541,92
+yneP,,Unknown,Uncharacterized,6,0.000408912,,,93
+NtrC-1,RpoN and RpoS and NtrC,"Nitrogen assimilation, ammonium transport",Uncharacterized,18,0.005174746,0.6666666666666666,0.7058823529411765,94
+Ribose,dsrA and Crp and RbsR,Ribose transport and catabolism,Uncharacterized,5,0.002142169,1,0.8333333333333334,95
+Dipeptide,gcvB and IHF and Fnr,Dipeptide transport; flagellar biosynthesis,Uncharacterized,8,0.003658408,0.625,0.8333333333333334,96
+Curli-1,RpoS and FliZ and CpxR and CsgD and BtsR,Curli secretion and assembly,Uncharacterized,6,0.003866891,1,0.8571428571428571,97
+ymiB,,Unknown,Uncharacterized,1,0.000378124,,,98
+yjjZ,,Unknown,Uncharacterized,2,0.002616624,,,99
+Molybdenum,Crp and FliA and ModE,Molybdenum transport and molybdoenzyme synthesis,Uncharacterized,5,0.00076055,0.6,1,100
+e14 Del,,Unknown,Uncharacterized,14,0.002855517,,,101
+Thr/Ser-1,TdcA and TdcR and IHF and Fnr and Crp,Threonine/serine transport and catabolism during anaerobiosis,Uncharacterized,16,0.004083536,0.4375,1,102
+Tryptophan,TrpR and Trp-tRNA,Tryptophan transport and biosynthesis,Uncharacterized,8,0.001552066,0.625,1,103
+FHL,RpoN and NsrR and ModE and IHF and FhlA,Formate hydrogenlyase: hydrogen production during glucose fermentation via formate oxidation/proton reduction,Uncharacterized,7,0.001070009,0.8571428571428571,0.6666666666666666,104
+Glycine,PurR and Fnr and ppGpp and Crp and Lrp and GcvA,Glycine cleavage system,Uncharacterized,5,0.001662534,0.6,1,105
+BW25113,,Accounts for genomic differences between BW25113 and MG1655 substrains,Uncharacterized,26,0.002990323,,,106
+ypjJ,,Unknown,Uncharacterized,7,0.000384989,,,107
+PaaX,Crp and IHF and PaaX and SlyA,Phenylacetic acid transport and catabolism,Uncharacterized,9,0.001050652,0.7777777777777778,0.6363636363636364,108
+Flagella,,Flagellar biosynthesis,Uncharacterized,4,0.001177864,,,109
+SCFA,RpoN and AtoC and IHF,Short-chain fatty acid (acetoacetate) transport and catabolism,Uncharacterized,4,0.000448452,1,1,110
+YgeV,YgeV,Nucleoside degradation activated by ethanol treatment,Uncharacterized,13,0.001617734,,,111
+pts ALE,,ptsHIcrr KO and associated adaptive regulatory changes,Uncharacterized,37,0.002569994,,,112
+FDH-O,SdhX,Formate dehydrogenase O; formate to carbon dioxide oxidation; formate-nitrate electron transport during aerobic/anerobic shift,Uncharacterized,7,0.001533342,0.42857142857142855,0.5,113
+GlcNAc,NagC and Crp,"Amino sugar transport, biosynthesis and catabolism",Uncharacterized,17,0.001440828,0.5294117647058824,0.391304348,114
+YgbI,YgbI,Tartrate transport and catabolism,Uncharacterized,10,0.000673002,,,115
+Lysine/T2SS,ArgP,Lysine transport and biosynthesis; type II secretion system,Uncharacterized,27,0.002334972,0.2222222222222222,0.46153846153846156,116
+Fnr-3,Fnr,Anaerobic growth,Uncharacterized,33,0.014970887570391778,0.36363636363636365,0.1188118811881188,117
+ythA,,Unknown,Uncharacterized,3,0.000427754,,,118
+entC/ubiC KO-1,,entC/ubiC KO and compensatory sad up-regulation,Uncharacterized,6,0.000522835,,,119
+yoaI,,Unknown,Uncharacterized,1,0.001094944,,,120
+Gluconate,GntR and Crp,Gluconate transport and catabolism (Entner-Doudoroff),Uncharacterized,12,0.000907096,0.6666666666666666,0.8,121
+UC-9,,Unknown,Uncharacterized,10,0.001345551,,,122
+Copper,CusR or CueR or HprR,Copper/silver sensing and export,Uncharacterized,11,0.010248137520790679,0.7272727272727273,0.8888888888888888,123
+Thr/Ser-2,Fnr and Crp and IHF and TdcA and TdcR,Threonine/serine transport and catabolism,Uncharacterized,5,0.000961394,0.8,0.5714285714285714,124
+Membrane,,"Membrane-related stress response regulators, transporters, multidrug resistance",Uncharacterized,33,0.005310585,,,125
+Thiamine-1,Thiamine diphosphate,Thiamine uptake and biosynthesis,Uncharacterized,9,0.009023548,0.8888888888888888,1,126
+Cold Shock,,Cold shock proteins,Uncharacterized,15,0.021490431,,,127
+FliA,FliA,"Sigma 28; flagellum biosynthesis and export, motility",Uncharacterized,37,0.026333449,0.918918919,0.4657534246575342,128
+Pyruvate-1,BtsR,"Pyruvate sensing, transport, and catabolism under nutrient limitation",Uncharacterized,6,0.002393605,0.5,0.2,129
+ldrD,,Unknown,Uncharacterized,4,0.00054141,,,130
+efeU Activation,,efeU re-activation and associated efeU ALE-related expression changes,Uncharacterized,9,0.002352371,,,131
+rcsB KO,,rcsB KO and associated regulatory changes,Uncharacterized,8,0.002465816,,,132
+malE OE,,Accounts for malE plasmid overexpression,Uncharacterized,3,0.00055959,,,133
+Crp-2,Crp,Carbohydrate transport and catabolism,Uncharacterized,21,0.00838365,0.7142857142857143,0.028957529,134
+Cysteine-1,CysB,"Cysteine biosynthesis, sulfate assimilation",Uncharacterized,32,0.007073831,0.5,0.5161290322580645,135
+Pyruvate-2,PyrR,Pyruvate sensing and transport,Uncharacterized,1,0.001916746,1,1,136
+Phosphate-2,PhoB,"Inorganic phosphate sensing, transport, and production",Uncharacterized,20,0.000995142,0.9,0.3829787234042553,137
+Leucine,LeuO and Leu-tRNA and ppGpp,Leucine biosynthesis,Uncharacterized,5,0.00279646,0.8,1,138
+Capsule,RcsAB,Colanic acid capsule synthesis and transport; periplasmic proteins; envelope stress response,Uncharacterized,38,0.005251969,0.2631578947368421,0.625,139
+ytiC,,Unknown,Uncharacterized,2,0.001828213,,,140
+ROS TALE Del-2,,Unknown,Uncharacterized,9,0.003174214,,,141
+UC-5,,Unknown,Uncharacterized,15,0.001865643,,,142
+FlhDC-1,FlhDC,Flagellum biosynthesis and export,Uncharacterized,32,0.005938891,0.71875,0.5897435897435898,143
+Putrescine,RpoS and ArcA and PuuR,Putrescine transport and catabolism,Uncharacterized,8,0.011371094,1,1,144
+ppGpp,ppGpp,Stringent response,Uncharacterized,70,0.023260693,0.9142857142857143,0.084656085,145
+Glycolate,IHF and ArcA and PdhR and GlcC,Glycolate/glyoxylate tranport and catabolism,Uncharacterized,6,0.00588654,1,1,146
+PAL 26 Del,,Unknown,Uncharacterized,43,0.001438677,,,147
+LPS,,Lipopolysaccharide biosynthesis and export,Uncharacterized,43,0.005923557,,,148
+Arginine,ArgR,Arginine transport and biosynthesis,Uncharacterized,24,0.00757262,0.8333333333333334,0.5405405405405406,149
+Nickel/Cobalt,RcnR,Nickel and cobalt resistance via efflux,Uncharacterized,2,0.001299511,1,0.6666666666666666,150
+IS5,,IS5 transcripts,Uncharacterized,9,0.002758704,,,151
+NtrC-3,NtrC and RpoN,"Nitrogen assimilation, pyrimidine transport and catabolism",Uncharacterized,20,0.002637654,0.7,0.2857142857142857,152
+arcA/luxS KO,,arcA KO,Uncharacterized,2,0.000282815,,,153
+sdh KO,,sdh KO,Uncharacterized,5,0.002926485,,,154
+YmfT,YmfT,e14 prophage regulator activated by DNA damage,Uncharacterized,15,0.001012003,,,155
+Fnr-2,Fnr,Transition from aerobic to anaerobic growth; global control of anaerobiosis,Uncharacterized,62,0.009538796,0.3225806451612903,0.067567568,156
+Microaerobic,RpoS and Fis and NarP and NarL and AppY and YdeO and ArcA and IscR,Hydrogenase 1 and cytochrome bd-II ubiquinol oxidase: microaerobic respiratory chain between hydrogen and oxygen,Uncharacterized,6,0.002636431,1,1,157
+Cysteine-2,CysB,"Cysteine biosynthesis, sulfate assimilation",Uncharacterized,9,0.000964306,0.7777777777777778,0.22580645161290322,158
+ydfW,,Unknown,Uncharacterized,3,0.000287653,,,159
+YcjW,YcjW,Carbohydrate transport and catabolism,Uncharacterized,17,0.000589116,0.7058823529411765,0.1643835616438356,160
+PAL Amp,,Unknown,Uncharacterized,88,0.001003,,,161
+Propionate,PrpR and RpoN and Cra and Crp,Propionate catabolism; 2-methylcitric acid cycle,Uncharacterized,4,0.004215411,1,1,162
+CP4-44,,CP4-44 prophage expression variation,Uncharacterized,4,0.001426496,,,163
+minicoli KOs,,Deletions from minicoli strain,Uncharacterized,115,0.046626094,,,164
+GadXW,GadX and GadW,Glutamate-dependent acid resistance system; multidrug efflux,Uncharacterized,19,0.018103436561898834,0.5789473684210527,0.8461538461538461,165
+Rhamnose,Crp and RhaS,Rhamnose transport and catabolism,Uncharacterized,8,0.004996996,0.75,1,166
+UC-2,,Unknown,Uncharacterized,96,0.017694583,,,167
+ydfB,,Unknown,Uncharacterized,1,0.000421551,,,168
+NrdR,NrdR,Ribonucleoside reduction,Uncharacterized,7,0.003655734,0.8571428571428571,0.6666666666666666,169
+Purine,PurR and ppGpp,Purine transport and biosynthesis,Uncharacterized,22,0.008968325,0.5454545454545454,0.5714285714285714,170
+cyoB/ndh/nuoB KO-1,,NDH-1 (nuoB) KO and compensatory NDH-2 (ndh) up-regulation,Uncharacterized,3,0.000624943,,,171
+Fimbriae,QseB and IHF and Lrp and H-NS,Type 1 (mannose-sensitive) pili/fimbriae biosynthesis and secretion,Uncharacterized,8,0.004407358,0.875,1,172
+IS Elements-1,,Unknown,Uncharacterized,24,0.004092374,,,173
+Cra,Cra,Central carbon metabolism; glycolytic flux-dependent regulation via fructose sensing,Uncharacterized,17,0.003954745,0.7647058823529411,0.16666666666666666,174
+Hot TALE 16,,Regulatory changes under high temperature,Uncharacterized,17,0.000755143,,,175
+Suf System,NsrR and IHF and IscR and OxyR and Fur and ppGpp,Iron-sulfur cluster biosynthesis and insertion,Uncharacterized,6,0.00280373,1,1,176
+PlaR,PlaR and RpoE and Crp and IHF,Plant-derived sugars transport and catabolism,Uncharacterized,10,0.000573888,0.9,1,177
+NO Stress,NsrR or NarP,"Nitric oxide sensing and detoxification, iron-sulfur cluster repair, anaerobic growth",Uncharacterized,11,0.000846015,0.8181818181818182,0.075,178
+Maltose,MalT,Maltose transport and catabolism,Uncharacterized,9,0.007072464,0.8888888888888888,1,179
+Tyr/Trp/Phe,TyrR or TrpR or Trp-tRNA,Aromatic amino acid biosynthesis and transport,Uncharacterized,12,0.001771314,0.9166666666666666,0.5789473684210527,180
+GadX,RpoS and GadX,Glutamate-dependent acid resistance system; multidrug efflux,Uncharacterized,9,0.002068627,0.6666666666666666,0.375,181
+Fatty Acid,FadR,Fatty acid degradation and biosynthesis,Uncharacterized,7,0.002679597,1,0.3181818181818182,182
+DhaR,DhaR,Dihydroxyacetone transport and catabolism; phosphotransferase activity for DhaM phosphorylation,Uncharacterized,13,0.001669161,0.23076923076923078,0.75,183
+pts KO,,ptsHI/crr KO and compensatory regulatory changes,Uncharacterized,13,0.000926441,,,184
+gcvB,gcvB,Amino acid transport,Uncharacterized,76,0.005553563,0.18421052631578946,0.24561403508771928,185
+Glutarate,RpoS and H-NS and Crp and Lrp and GlaR and ppGpp,Glutarate/aminobutyrate transport and catabolism,Uncharacterized,5,0.003170283,1,1,186
+entC/ubiC KO-2,,entC/ubiC KO and compensatory sad up-regulation,Uncharacterized,5,0.000730897,,,187
+Oxidoreductase,,Putative oxidoreductase components,Uncharacterized,5,0.000688523,,,188
+UC-7,,Unknown,Uncharacterized,32,0.012555445465156745,,,189
+Efflux Pump,,Multidrug/spermidine efflux pump,Uncharacterized,2,0.001920836,,,190
+Tryptophanase,Crp and TorR and Nac and L-tryptophan,Tryptophan import and catabolism via tryptophanase; indole/pyruvate biosynthesis,Uncharacterized,2,0.003248346,1,1,191
+crp KO-2,,crp KO and associated glycerol-3-phosphate (GlpR) regulatory changes,Uncharacterized,6,0.000603604,,,192
+cyoB/ndh/nuoB KO-2,,cyoB/ndh/nuoB KOs,Uncharacterized,9,0.001026529,,,193
+tpiA KO,,tpiA KO and compensatory evolved regulatory changes,Uncharacterized,10,0.0005477,,,194
+Phage Shock,RpoN and IHF and PspF,Phage shock response; response to filamentous phage infection and/or extracytoplasmic shock,Uncharacterized,6,0.003631426,0.8333333333333334,0.8333333333333334,195
+Glyoxylate,Crp and ArcA and ppGpp and Cra and IclR and IHF,Glyxoylate cycle; alternate to TCA cycle,Uncharacterized,3,0.002084883,1,1,196
+CCK-PGI Del,,Unknown,Uncharacterized,15,0.000744775,,,197
+Acetate,,Acetate uptake and catabolism; aldehyde catabolism; acetate/ethanol detoxification at stationary phase,Uncharacterized,7,0.006190738,,,198
+Ile/Val,,Isoleucine and valine biosynthesis,Uncharacterized,4,0.00108159,,,199
+UC-8,,Unknown,Uncharacterized,9,0.008395553,,,200

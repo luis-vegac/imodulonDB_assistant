@@ -1,0 +1,3738 @@
+iModulon,Gene
+Sugar Diacid,cdaR
+Sugar Diacid,yeaE
+Sugar Diacid,dmlA
+Sugar Diacid,ygbJ
+Sugar Diacid,ygbK
+Sugar Diacid,ygbL
+Sugar Diacid,gudD
+Sugar Diacid,gudX
+Sugar Diacid,gudP
+Sugar Diacid,garK
+Sugar Diacid,garR
+Sugar Diacid,garL
+Sugar Diacid,garP
+Sugar Diacid,garD
+Translation,rpsB
+Translation,tsf
+Translation,rpmF
+Translation,rpmI
+Translation,rplY
+Translation,rplS
+Translation,trmD
+Translation,rimM
+Translation,rpsP
+Translation,truB
+Translation,rbfA
+Translation,rpsI
+Translation,rplM
+Translation,rplQ
+Translation,rpoA
+Translation,rpsD
+Translation,rpsK
+Translation,rpsM
+Translation,rpmJ
+Translation,secY
+Translation,rplO
+Translation,rpmD
+Translation,rpsE
+Translation,rplR
+Translation,rplF
+Translation,rpsH
+Translation,rpsN
+Translation,rplE
+Translation,rplX
+Translation,rplN
+Translation,rpsQ
+Translation,rpmC
+Translation,rplP
+Translation,rpsC
+Translation,rplV
+Translation,rpsS
+Translation,rplB
+Translation,rplW
+Translation,rplD
+Translation,rplC
+Translation,rpsJ
+Translation,fusA
+Translation,rpsG
+Translation,rpsL
+Translation,rplK
+Translation,rplA
+Translation,rplJ
+Translation,rplL
+Translation,rpoC
+Translation,rpsF
+Translation,priB
+Translation,rpsR
+Translation,rplI
+ygdT,ydfA
+ygdT,ghoT
+ygdT,ygdT
+OxyR,yaaA
+OxyR,pdeL
+OxyR,hemH
+OxyR,ahpC
+OxyR,ahpF
+OxyR,fur
+OxyR,dps
+OxyR,grxA
+OxyR,ybjC
+OxyR,clpS
+OxyR,clpA
+OxyR,trxB
+OxyR,hdhA
+OxyR,cfa
+OxyR,mdtK
+OxyR,sufS
+OxyR,sufD
+OxyR,sufC
+OxyR,sufB
+OxyR,sufA
+OxyR,xthA
+OxyR,cspC
+OxyR,yobF
+OxyR,yeiB
+OxyR,hemF
+OxyR,mltF
+OxyR,trxC
+OxyR,tapT
+OxyR,fhlA
+OxyR,nfeF
+OxyR,glpG
+OxyR,glpE
+OxyR,ccp
+OxyR,treF
+OxyR,katG
+OxyR,yijE
+OxyR,oxyR
+OxyR,fhuF
+FlhDC-2,flgN
+FlhDC-2,flgM
+FlhDC-2,flgA
+FlhDC-2,flgB
+FlhDC-2,flgC
+FlhDC-2,flgD
+FlhDC-2,flgE
+FlhDC-2,flgF
+FlhDC-2,flgG
+FlhDC-2,flgH
+FlhDC-2,flgI
+FlhDC-2,flgJ
+FlhDC-2,flgK
+FlhDC-2,flgL
+FlhDC-2,ves
+FlhDC-2,ynjH
+FlhDC-2,flhE
+FlhDC-2,flhA
+FlhDC-2,flhB
+FlhDC-2,tar
+FlhDC-2,flhC
+FlhDC-2,flhD
+FlhDC-2,yecR
+FlhDC-2,fliZ
+FlhDC-2,fliA
+FlhDC-2,fliD
+FlhDC-2,fliS
+FlhDC-2,fliT
+FlhDC-2,fliE
+FlhDC-2,fliF
+FlhDC-2,fliG
+FlhDC-2,fliH
+FlhDC-2,fliI
+FlhDC-2,fliJ
+FlhDC-2,fliK
+FlhDC-2,fliL
+FlhDC-2,fliM
+FlhDC-2,fliN
+FlhDC-2,fliO
+FlhDC-2,fliP
+FlhDC-2,fliQ
+FlhDC-2,fliR
+FlhDC-2,tsr
+Osmoprotectant,proV
+Osmoprotectant,proW
+Osmoprotectant,proX
+Osmoprotectant,ygaY
+Glutamine,gltJ
+Glutamine,glnQ
+Glutamine,glnP
+Glutamine,glnH
+Glutamine,hisJ
+Glutamine,argT
+Glutamine,asnA
+Glutamine,glnL
+Glutamine,glnA
+Sialic Acid,thrA
+Sialic Acid,lysA
+Sialic Acid,nanQ
+Sialic Acid,nanK
+Sialic Acid,nanE
+Sialic Acid,nanT
+Sialic Acid,nanA
+Sialic Acid,adiY
+Sialic Acid,nanX
+Sialic Acid,nanY
+Sialic Acid,nanS
+Sialic Acid,nanM
+Sialic Acid,nanC
+yqhI,cspH
+yqhI,yqhI
+ROS TALE Amp,insF2
+ROS TALE Amp,insF3
+ROS TALE Amp,emrE
+ROS TALE Amp,ybcK
+ROS TALE Amp,ybcL
+ROS TALE Amp,ybcM
+ROS TALE Amp,insF4
+ROS TALE Amp,insE4
+ROS TALE Amp,ylcJ
+Nucleotide Stress,rnk
+Nucleotide Stress,ynfM
+Nucleotide Stress,ftp
+Nucleotide Stress,yfgJ
+Nucleotide Stress,recX
+Nucleotide Stress,ygcW
+Nucleotide Stress,yqcC
+Nucleotide Stress,dnaG
+Nucleotide Stress,greA
+Nucleotide Stress,obgE
+Nucleotide Stress,yhbE
+Nucleotide Stress,rarD
+Nucleotide Stress,yjaA
+Nucleotide Stress,yjbE
+Nucleotide Stress,yjeT
+Histidine,hisG
+Histidine,hisD
+Histidine,hisC
+Histidine,hisB
+Histidine,hisH
+Histidine,hisA
+Histidine,hisF
+Histidine,hisI
+Histidine,serB
+UC-4,yaaX
+UC-4,ivy
+UC-4,yaiY
+UC-4,yajI
+UC-4,ybdR
+UC-4,ybgS
+UC-4,ycfJ
+UC-4,ymgD
+UC-4,ymgG
+UC-4,osmB
+UC-4,hslJ
+UC-4,ydcF
+UC-4,bdm
+UC-4,ydeI
+UC-4,ydeJ
+UC-4,mliC
+UC-4,spy
+UC-4,rcsA
+UC-4,yegS
+UC-4,ypeC
+UC-4,ypfG
+UC-4,ygaC
+UC-4,iap
+UC-4,ygdI
+UC-4,ygdR
+UC-4,yggE
+UC-4,loiP
+UC-4,galP
+UC-4,ygiM
+UC-4,yhbO
+UC-4,yiaD
+UC-4,yjbE
+UC-4,yjbF
+UC-4,treR
+UC-4,osmY
+UC-4,yjdP
+UC-4,ysaB
+UC-4,ytjA
+UC-4,ymgI
+RpoH,dnaK
+RpoH,dnaJ
+RpoH,insL1
+RpoH,lon
+RpoH,htpG
+RpoH,cnoX
+RpoH,insL2
+RpoH,ybeD
+RpoH,ybeY
+RpoH,ybeZ
+RpoH,hspQ
+RpoH,bssS
+RpoH,mfd
+RpoH,ycjX
+RpoH,ycjF
+RpoH,ldhA
+RpoH,gapA
+RpoH,yeaD
+RpoH,insL3
+RpoH,clpB
+RpoH,grpE
+RpoH,rlmE
+RpoH,zntR
+RpoH,yhdN
+RpoH,tusB
+RpoH,yrfG
+RpoH,hslR
+RpoH,hslO
+RpoH,rsmJ
+RpoH,prlC
+RpoH,mutM
+RpoH,ibpB
+RpoH,ibpA
+RpoH,hslU
+RpoH,hslV
+RpoH,malE
+RpoH,soxR
+RpoH,fxsA
+RpoH,groS
+RpoH,groL
+RpoH,miaA
+FucR/AllR/AraC,araD
+FucR/AllR/AraC,araA
+FucR/AllR/AraC,araB
+FucR/AllR/AraC,allA
+FucR/AllR/AraC,gcl
+FucR/AllR/AraC,hyi
+FucR/AllR/AraC,glxR
+FucR/AllR/AraC,allW
+FucR/AllR/AraC,allB
+FucR/AllR/AraC,ybbY
+FucR/AllR/AraC,araG
+FucR/AllR/AraC,araF
+FucR/AllR/AraC,fucO
+FucR/AllR/AraC,fucA
+FucR/AllR/AraC,fucP
+FucR/AllR/AraC,fucI
+FucR/AllR/AraC,fucK
+FucR/AllR/AraC,fucU
+FucR/AllR/AraC,araE
+FucR/AllR/AraC,araH
+ldrC,ldrC
+Ferric Citrate,entC
+Ferric Citrate,ubiC
+Ferric Citrate,fecE
+Ferric Citrate,fecD
+Ferric Citrate,fecC
+Ferric Citrate,fecB
+Ferric Citrate,fecA
+Zinc-1,cueO
+Zinc-1,ykgM
+Zinc-1,copA
+Zinc-1,pliG
+Zinc-1,mepM
+Zinc-1,znuA
+Zinc-1,znuC
+Zinc-1,znuB
+Zinc-1,zinT
+Zinc-1,yodB
+Zinc-1,rcnA
+Zinc-1,zntA
+Zinc-1,rpmE
+Zinc-1,ykgO
+Methionine,metQ
+Methionine,metI
+Methionine,metN
+Methionine,mmuP
+Methionine,mmuM
+Methionine,hcxA
+Methionine,ybdL
+Methionine,yddB
+Methionine,yddA
+Methionine,cspB
+Methionine,metK
+Methionine,metC
+Methionine,yghB
+Methionine,metR
+Methionine,metE
+Methionine,yiiX
+Methionine,metJ
+Methionine,metB
+Methionine,metL
+Methionine,metF
+Methionine,metA
+Sorbitol,srlA
+Sorbitol,srlE
+Sorbitol,srlB
+Sorbitol,srlD
+Sorbitol,gutM
+Sorbitol,srlR
+Glycerol,dhaL
+Glycerol,dhaK
+Glycerol,glpQ
+Glycerol,glpT
+Glycerol,glpA
+Glycerol,glpB
+Glycerol,glpC
+Glycerol,glpD
+Glycerol,glpX
+Glycerol,glpK
+Glycerol,glpF
+Nucleoside,tsx
+Nucleoside,ycdZ
+Nucleoside,cdd
+Nucleoside,nupG
+Nucleoside,tsgA
+Nucleoside,nirB
+Nucleoside,nirD
+Nucleoside,udp
+Nucleoside,yjcB
+Nucleoside,deoC
+Nucleoside,deoA
+SoxS,lpxC
+SoxS,gcd
+SoxS,yadM
+SoxS,dgt
+SoxS,degP
+SoxS,glnD
+SoxS,map
+SoxS,paoC
+SoxS,paoB
+SoxS,lacA
+SoxS,hemB
+SoxS,ampH
+SoxS,yaiA
+SoxS,aroM
+SoxS,decR
+SoxS,mdlA
+SoxS,mdlB
+SoxS,acrB
+SoxS,acrA
+SoxS,apt
+SoxS,ybaL
+SoxS,nfsB
+SoxS,citR
+SoxS,dpiB
+SoxS,lipA
+SoxS,fur
+SoxS,fldA
+SoxS,ybfF
+SoxS,acrZ
+SoxS,ybhA
+SoxS,pgl
+SoxS,ybiJ
+SoxS,grxA
+SoxS,ybjC
+SoxS,nfsA
+SoxS,rimK
+SoxS,ybjN
+SoxS,ltaE
+SoxS,poxB
+SoxS,ompF
+SoxS,pncB
+SoxS,pqiA
+SoxS,pqiB
+SoxS,pqiC
+SoxS,opgC
+SoxS,mdtG
+SoxS,ptsG
+SoxS,ychA
+SoxS,kdsA
+SoxS,chaC
+SoxS,acnA
+SoxS,ribA
+SoxS,ynaE
+SoxS,ompN
+SoxS,ydbK
+SoxS,ydcL
+SoxS,pqqU
+SoxS,pptA
+SoxS,nhoA
+SoxS,eamA
+SoxS,ydeE
+SoxS,rspB
+SoxS,fumC
+SoxS,yebV
+SoxS,edd
+SoxS,zwf
+SoxS,nfo
+SoxS,yeiI
+SoxS,yeiR
+SoxS,lpxT
+SoxS,inaA
+SoxS,yfcD
+SoxS,mlaA
+SoxS,ypeC
+SoxS,ligA
+SoxS,cysZ
+SoxS,yfgG
+SoxS,yfgH
+SoxS,mltF
+SoxS,ypjF
+SoxS,ygaY
+SoxS,idi
+SoxS,fldB
+SoxS,ygfZ
+SoxS,mutY
+SoxS,yggX
+SoxS,mltC
+SoxS,nupG
+SoxS,yqgA
+SoxS,tolC
+SoxS,rsmI
+SoxS,yhbW
+SoxS,kdsC
+SoxS,lptC
+SoxS,lptA
+SoxS,lptB
+SoxS,yrbL
+SoxS,yhcN
+SoxS,treF
+SoxS,yhjB
+SoxS,eptB
+SoxS,nepI
+SoxS,frvR
+SoxS,frvX
+SoxS,frvB
+SoxS,sodA
+SoxS,kdgT
+SoxS,sbp
+SoxS,fpr
+SoxS,oxyR
+SoxS,soxS
+SoxS,yjjW
+SoxS,yjjI
+SoxS,rob
+SoxS,yobH
+SoxS,ypeB
+SoxS,ynaM
+thrA KO,thrA
+thrA KO,thrB
+thrA KO,borD
+thrA KO,ilvC
+thrA KO,ymjB
+YjfJ,yjfI
+YjfJ,yjfJ
+YjfJ,yjfK
+YjfJ,yjfL
+Lrp,leuC
+Lrp,ilvI
+Lrp,ilvH
+Lrp,ddlA
+Lrp,artM
+Lrp,artI
+Lrp,ompF
+Lrp,dadA
+Lrp,dadX
+Lrp,ydeE
+Lrp,pntB
+Lrp,pntA
+Lrp,ydgI
+Lrp,dtpA
+Lrp,leuE
+Lrp,sdaA
+Lrp,tyrP
+Lrp,eco
+Lrp,alaA
+Lrp,stpA
+Lrp,alaE
+Lrp,sdaC
+Lrp,sdaB
+Lrp,yqeG
+Lrp,livF
+Lrp,livG
+Lrp,livM
+Lrp,livH
+Lrp,livK
+Lrp,livJ
+Lrp,dtpB
+Lrp,yhjE
+Lrp,tdh
+Lrp,kbl
+Lrp,emrD
+Lrp,ilvC
+Lrp,metE
+Lrp,yjbJ
+Lrp,lysU
+Lrp,ytfK
+Lrp,ymgF
+Lrp,ymgM
+baeR KO,yaaY
+baeR KO,dapB
+baeR KO,mraZ
+baeR KO,rsmH
+baeR KO,ftsL
+baeR KO,murE
+baeR KO,murF
+baeR KO,mraY
+baeR KO,murD
+baeR KO,ftsW
+baeR KO,murG
+baeR KO,murC
+baeR KO,yacH
+baeR KO,dpaA
+baeR KO,pepD
+baeR KO,pdeL
+baeR KO,yahD
+baeR KO,yahJ
+baeR KO,baeR
+baeR KO,pspG
+baeR KO,yjhV
+baeR KO,fecE
+baeR KO,fecD
+baeR KO,fecB
+baeR KO,fecA
+baeR KO,fecR
+baeR KO,fecI
+baeR KO,insA7
+baeR KO,yjhU
+baeR KO,yjhF
+baeR KO,yjhG
+baeR KO,yjhH
+baeR KO,yjhI
+baeR KO,sgcR
+baeR KO,sgcE
+baeR KO,sgcA
+baeR KO,sgcQ
+baeR KO,sgcC
+baeR KO,sgcX
+baeR KO,yjhP
+baeR KO,yjhQ
+baeR KO,yjhR
+baeR KO,nanS
+baeR KO,nanM
+baeR KO,nanC
+baeR KO,fimB
+baeR KO,fimE
+baeR KO,yjiG
+baeR KO,yjjY
+baeR KO,ymjB
+baeR KO,sgcB
+baeR KO,topAI
+baeR KO,ykgS
+baeR KO,ytiA
+ydaG,kilR
+ydaG,ydaG
+ydaG,paaB
+ydaG,ydaF
+ldrA,ldrA
+Quorum Sensing,lsrK
+Quorum Sensing,lsrR
+Quorum Sensing,lsrA
+Quorum Sensing,lsrC
+Quorum Sensing,lsrD
+Quorum Sensing,lsrB
+Quorum Sensing,lsrF
+Quorum Sensing,lsrG
+Quorum Sensing,tam
+Quorum Sensing,nfi
+IS Elements-2,insI1
+IS Elements-2,insH1
+IS Elements-2,insA2
+IS Elements-2,insA3
+IS Elements-2,insE1
+IS Elements-2,insF1
+IS Elements-2,insC1
+IS Elements-2,insD1
+IS Elements-2,insE2
+IS Elements-2,insE3
+IS Elements-2,insF3
+IS Elements-2,insH2
+IS Elements-2,insH3
+IS Elements-2,insB4
+IS Elements-2,insF4
+IS Elements-2,insE4
+IS Elements-2,insH4
+IS Elements-2,tfaR
+IS Elements-2,pinR
+IS Elements-2,ynaE
+IS Elements-2,insC2
+IS Elements-2,insI2
+IS Elements-2,ydfK
+IS Elements-2,pinQ
+IS Elements-2,tfaQ
+IS Elements-2,insD7
+IS Elements-2,insH6
+IS Elements-2,insC3
+IS Elements-2,yeeW
+IS Elements-2,gnd
+IS Elements-2,insE5
+IS Elements-2,insF5
+IS Elements-2,insH8
+IS Elements-2,insH9
+IS Elements-2,insC5
+IS Elements-2,insD5
+IS Elements-2,insH10
+IS Elements-2,insA6
+IS Elements-2,insB6
+IS Elements-2,insH11
+IS Elements-2,tufB
+IS Elements-2,yzfA
+IS Elements-2,insC6
+IS Elements-2,insD6
+IS Elements-2,insI3
+IS Elements-2,insA4
+IS Elements-2,yohO
+IS Elements-2,insH21
+IS Elements-2,ytiD
+Nickel,nikA
+Nickel,nikB
+Nickel,nikC
+Nickel,nikD
+Nickel,nikE
+CpxR,cueO
+CpxR,degP
+CpxR,yagU
+CpxR,maa
+CpxR,hha
+CpxR,tomB
+CpxR,copA
+CpxR,ybbA
+CpxR,ybbP
+CpxR,cusR
+CpxR,cusC
+CpxR,yliI
+CpxR,tusE
+CpxR,yccA
+CpxR,ldtC
+CpxR,ychH
+CpxR,chaA
+CpxR,yncJ
+CpxR,dgcZ
+CpxR,ynfD
+CpxR,mdtI
+CpxR,mdtJ
+CpxR,tqsA
+CpxR,spy
+CpxR,sdaA
+CpxR,yoaE
+CpxR,htpX
+CpxR,yobB
+CpxR,yebE
+CpxR,ftnB
+CpxR,hprR
+CpxR,yfgG
+CpxR,raiA
+CpxR,yqaE
+CpxR,ygiB
+CpxR,ygiC
+CpxR,alx
+CpxR,yqjA
+CpxR,mzrA
+CpxR,yhdU
+CpxR,ppiA
+CpxR,rpoH
+CpxR,srkA
+CpxR,dsbA
+CpxR,cpxR
+CpxR,mutL
+CpxR,miaA
+CpxR,yjfN
+CpxR,fimE
+CpxR,slt
+CpxR,cpxP
+CpxR,efeU
+CpxR,yoaL
+Curli-2,csgB
+Curli-2,csgA
+Curli-2,csgC
+Curli-2,rhaT
+Curli-2,yjbT
+Acid Shock RNA,ydcI
+Acid Shock RNA,asr
+Acid Shock RNA,ydgD
+FucR/ExuR,racC
+FucR/ExuR,uxaB
+FucR/ExuR,yeiQ
+FucR/ExuR,fucO
+FucR/ExuR,fucA
+FucR/ExuR,fucP
+FucR/ExuR,fucI
+FucR/ExuR,fucK
+FucR/ExuR,fucU
+FucR/ExuR,yqhD
+FucR/ExuR,uxaA
+FucR/ExuR,uxaC
+FucR/ExuR,exuT
+FucR/ExuR,uxuA
+cydB/appC KO,cyoB
+cydB/appC KO,cydB
+cydB/appC KO,ybgE
+cydB/appC KO,appC
+cydB/appC KO,appB
+cydB/appC KO,appA
+cydB/appC KO,menE
+cydB/appC KO,menC
+cydB/appC KO,nuoB
+cydB/appC KO,yjjY
+cydB/appC KO,cydX
+ymdG,ymdG
+EvgA,ydeO
+EvgA,safA
+EvgA,ydeP
+EvgA,asr
+EvgA,ogrK
+EvgA,yegZ
+EvgA,yegR
+EvgA,emrY
+EvgA,emrK
+EvgA,yfdE
+EvgA,yfdV
+EvgA,oxc
+EvgA,frc
+EvgA,yfdX
+EvgA,ypdI
+Xylose,yagG
+Xylose,yagH
+Xylose,glrR
+Xylose,ubiK
+Xylose,yiaA
+Xylose,yiaB
+Xylose,xylB
+Xylose,xylA
+Xylose,xylF
+Xylose,xylG
+Xylose,xylH
+Xylose,xylR
+Xylose,yicI
+Xylose,yicJ
+Xylose,xylE
+IS1,insB1
+IS1,insA1
+IS1,insB5
+IS1,insA5
+IS1,luxS
+IS1,cyaA
+IS1,arcA
+IS1,insA9
+IS1,insB9
+pgi KO,rluA
+pgi KO,gsiD
+pgi KO,pgi
+pgi KO,sgrT
+Biotin,bioA
+Biotin,bioB
+Biotin,bioF
+Biotin,bioC
+Biotin,bioD
+Biotin,ynfM
+Biotin,bioP
+Biotin,malE
+N Reduction,narH
+N Reduction,narJ
+N Reduction,narI
+N Reduction,ccmH
+N Reduction,ccmG
+N Reduction,ccmF
+N Reduction,ccmE
+N Reduction,ccmD
+N Reduction,ccmC
+N Reduction,ccmB
+N Reduction,ccmA
+N Reduction,napC
+N Reduction,napB
+N Reduction,napH
+N Reduction,napG
+N Reduction,napA
+N Reduction,napD
+N Reduction,napF
+N Reduction,nirD
+N Reduction,nirC
+N Reduction,nrfA
+N Reduction,nrfB
+N Reduction,nrfC
+N Reduction,nrfD
+FDH-N/NRA,narK
+FDH-N/NRA,narG
+FDH-N/NRA,narH
+FDH-N/NRA,narJ
+FDH-N/NRA,narI
+FDH-N/NRA,ychS
+FDH-N/NRA,ompW
+FDH-N/NRA,fdnG
+FDH-N/NRA,fdnH
+FDH-N/NRA,ynfE
+FDH-N/NRA,yoaG
+FDH-N/NRA,yeaR
+FDH-N/NRA,nirB
+FDH-N/NRA,nirD
+FDH-N/NRA,yibI
+Resistance,ykgL
+Resistance,cspE
+Resistance,tatE
+Resistance,ybfA
+Resistance,acrZ
+Resistance,grxA
+Resistance,ycaR
+Resistance,rmf
+Resistance,ynaJ
+Resistance,mokB
+Resistance,sra
+Resistance,gnsB
+Resistance,cspB
+Resistance,hokD
+Resistance,fumD
+Resistance,lpp
+Resistance,ydiH
+Resistance,ydiE
+Resistance,yobF
+Resistance,mgrB
+Resistance,yecH
+Resistance,yecF
+Resistance,dsrB
+Resistance,yfgG
+Resistance,yqaE
+Resistance,ygdI
+Resistance,ygdR
+Resistance,glgS
+Resistance,yhaL
+Resistance,yhfL
+Resistance,yhjR
+Resistance,rpmH
+Resistance,maoP
+Resistance,rhoL
+Resistance,yjaA
+Resistance,yjbJ
+Resistance,ytfK
+Resistance,pyrL
+Resistance,blr
+Resistance,ecnB
+Resistance,ldrA
+Resistance,hokB
+Resistance,ldrD
+Resistance,torI
+Resistance,cydX
+Resistance,ymgF
+Resistance,yniD
+Resistance,yohO
+Resistance,ypfN
+Resistance,arfA
+Resistance,yciY
+Resistance,sgrT
+Resistance,yshB
+Resistance,ykgS
+Resistance,mntS
+Resistance,rseD
+Resistance,yqhI
+Resistance,yqiD
+PAL 10 Del,frmB
+PAL 10 Del,frmA
+PAL 10 Del,frmR
+PAL 10 Del,abgR
+PAL 10 Del,smrA
+PAL 10 Del,dgcM
+PAL 10 Del,zntB
+PAL 10 Del,dbpA
+PAL 10 Del,ttcA
+PAL 10 Del,intR
+PAL 10 Del,recT
+PAL 10 Del,racR
+PAL 10 Del,ydaS
+PAL 10 Del,ydaW
+PAL 10 Del,ynaA
+PAL 10 Del,uspF
+PAL 10 Del,ydbK
+PAL 10 Del,hslJ
+PAL 10 Del,ldhA
+PAL 10 Del,ydbH
+PAL 10 Del,ynbE
+PAL 10 Del,ydbL
+PAL 10 Del,feaR
+PAL 10 Del,feaB
+PAL 10 Del,tynA
+PAL 10 Del,paaI
+PAL 10 Del,paaJ
+PAL 10 Del,paaK
+PAL 10 Del,paaX
+PAL 10 Del,paaY
+PAL 10 Del,pdxI
+PAL 10 Del,ydbD
+PAL 10 Del,ynbC
+PAL 10 Del,ynbD
+PAL 10 Del,azoR
+PAL 10 Del,hrpA
+PAL 10 Del,ydcF
+PAL 10 Del,aldA
+PAL 10 Del,cybB
+PAL 10 Del,ydcA
+PAL 10 Del,mokB
+PAL 10 Del,ydcI
+PAL 10 Del,ydcJ
+PAL 10 Del,opgD
+PAL 10 Del,ydcH
+PAL 10 Del,rimL
+PAL 10 Del,ydcK
+PAL 10 Del,tehA
+PAL 10 Del,tehB
+PAL 10 Del,ydcL
+PAL 10 Del,insQ
+PAL 10 Del,ydcO
+PAL 10 Del,sutR
+PAL 10 Del,rlhA
+PAL 10 Del,yncJ
+PAL 10 Del,hicB
+PAL 10 Del,ydcR
+PAL 10 Del,ydcS
+PAL 10 Del,ydcT
+PAL 10 Del,ydcU
+PAL 10 Del,ydcV
+PAL 10 Del,patD
+PAL 10 Del,ortT
+PAL 10 Del,ydcY
+PAL 10 Del,ydcZ
+PAL 10 Del,mnaT
+PAL 10 Del,curA
+PAL 10 Del,mcbR
+PAL 10 Del,pqqU
+PAL 10 Del,yncE
+PAL 10 Del,ansP
+PAL 10 Del,yncG
+PAL 10 Del,pptA
+PAL 10 Del,yddH
+PAL 10 Del,nhoA
+PAL 10 Del,yddE
+PAL 10 Del,yddG
+PAL 10 Del,fdnI
+PAL 10 Del,yddM
+PAL 10 Del,adhP
+PAL 10 Del,maeA
+PAL 10 Del,sra
+PAL 10 Del,osmC
+PAL 10 Del,ddpF
+PAL 10 Del,ddpD
+PAL 10 Del,ddpC
+PAL 10 Del,ddpB
+PAL 10 Del,ddpA
+PAL 10 Del,ddpX
+PAL 10 Del,dosP
+PAL 10 Del,dosC
+PAL 10 Del,digH
+PAL 10 Del,pqqL
+PAL 10 Del,yddB
+PAL 10 Del,yddA
+PAL 10 Del,ydeN
+PAL 10 Del,yqhD
+PAL 10 Del,rbsB
+PAL 10 Del,rbsK
+PAL 10 Del,deoC
+PAL 10 Del,deoA
+PAL 10 Del,hokB
+PAL 10 Del,ydbA
+PAL 10 Del,gapC
+PAL 10 Del,ydbJ
+PAL 10 Del,hicA
+PAL 10 Del,lomR
+PAL 10 Del,ynaL
+Biofilm,ycgZ
+Biofilm,ymgA
+Biofilm,ariR
+Biofilm,ymgC
+Biofilm,pdeG
+Cytochrome c,nrfA
+Cytochrome c,nrfB
+Cytochrome c,nrfC
+Cytochrome c,nrfD
+Cytochrome c,nrfE
+Cytochrome c,nrfG
+BasR,dmlA
+BasR,yodB
+BasR,ugd
+BasR,ais
+BasR,arnB
+BasR,arnC
+BasR,arnA
+BasR,arnD
+BasR,arnT
+BasR,yrbL
+BasR,waaH
+BasR,basS
+BasR,basR
+BasR,eptA
+BasR,arnE
+Sulfoquinovose,ompL
+Sulfoquinovose,yihO
+Sulfoquinovose,yihP
+Sulfoquinovose,yihQ
+Sulfoquinovose,yihR
+Sulfoquinovose,yihS
+Sulfoquinovose,yihT
+Sulfoquinovose,yihU
+Sulfoquinovose,yihV
+Sulfoquinovose,csqR
+RpoS,ldcC
+RpoS,yahK
+RpoS,yahO
+RpoS,psiF
+RpoS,ybaY
+RpoS,ybaA
+RpoS,ybdK
+RpoS,ybeL
+RpoS,ybgA
+RpoS,ybgS
+RpoS,ybhN
+RpoS,clsB
+RpoS,ybhP
+RpoS,mcbA
+RpoS,ybiO
+RpoS,dps
+RpoS,yliI
+RpoS,ybjP
+RpoS,poxB
+RpoS,ycaC
+RpoS,ycaP
+RpoS,yccJ
+RpoS,wrbA
+RpoS,msyB
+RpoS,ycgB
+RpoS,ymgE
+RpoS,treA
+RpoS,chaB
+RpoS,yciF
+RpoS,yciG
+RpoS,dgcM
+RpoS,ydcK
+RpoS,ydcS
+RpoS,ydcT
+RpoS,curA
+RpoS,mcbR
+RpoS,yncG
+RpoS,adhP
+RpoS,sra
+RpoS,osmC
+RpoS,lsrR
+RpoS,tam
+RpoS,ydeI
+RpoS,sodC
+RpoS,ydhS
+RpoS,ldtE
+RpoS,ydiZ
+RpoS,yniA
+RpoS,katE
+RpoS,osmE
+RpoS,yeaG
+RpoS,yeaH
+RpoS,yeaQ
+RpoS,yebV
+RpoS,yebF
+RpoS,otsA
+RpoS,otsB
+RpoS,amyA
+RpoS,yodD
+RpoS,yedP
+RpoS,hchA
+RpoS,yegP
+RpoS,yegS
+RpoS,fbaB
+RpoS,yehE
+RpoS,mlrA
+RpoS,yehW
+RpoS,yehX
+RpoS,yehY
+RpoS,osmF
+RpoS,yohF
+RpoS,elaB
+RpoS,yfcG
+RpoS,yfdC
+RpoS,talA
+RpoS,tktB
+RpoS,yphA
+RpoS,yfiL
+RpoS,lhgD
+RpoS,gabD
+RpoS,gabT
+RpoS,gabP
+RpoS,kbp
+RpoS,ygaM
+RpoS,rpoS
+RpoS,ygdI
+RpoS,yghA
+RpoS,dkgA
+RpoS,ygiW
+RpoS,patA
+RpoS,yqjC
+RpoS,yqjD
+RpoS,yqjE
+RpoS,yqjK
+RpoS,yqjG
+RpoS,yhbO
+RpoS,yhcO
+RpoS,yhdW
+RpoS,bfr
+RpoS,fic
+RpoS,yhfG
+RpoS,ggt
+RpoS,uspB
+RpoS,dtpB
+RpoS,yhjG
+RpoS,yhjY
+RpoS,yiaG
+RpoS,aldB
+RpoS,ysgA
+RpoS,yjdN
+RpoS,yjdI
+RpoS,yjdJ
+RpoS,blc
+RpoS,yjfI
+RpoS,yjfJ
+RpoS,ytfK
+RpoS,yjgH
+RpoS,ahr
+RpoS,osmY
+RpoS,ecnB
+RpoS,ytjA
+RpoS,ynaL
+lsrB KO,ykgL
+lsrB KO,yceO
+lsrB KO,yneL
+lsrB KO,lsrB
+lsrB KO,lsrF
+lsrB KO,lsrG
+lsrB KO,tam
+lsrB KO,ymgF
+UC-1,yacL
+UC-1,rpnC
+UC-1,ybbC
+UC-1,gstB
+UC-1,ycaK
+UC-1,msyB
+UC-1,ydfT
+UC-1,rem
+UC-1,ydhQ
+UC-1,yeaQ
+UC-1,yecH
+UC-1,yecA
+UC-1,tcyJ
+UC-1,dsrB
+UC-1,yodC
+UC-1,yedI
+UC-1,mqo
+UC-1,yfdY
+UC-1,yffQ
+UC-1,cas2
+UC-1,mutM
+UC-1,frwD
+UC-1,yjdI
+UC-1,yjdJ
+UC-1,chpS
+UC-1,chpB
+UC-1,arfA
+Fur-1,fhuB
+Fur-1,entD
+Fur-1,fepA
+Fur-1,fes
+Fur-1,entF
+Fur-1,fepC
+Fur-1,fepG
+Fur-1,fepD
+Fur-1,entS
+Fur-1,fepB
+Fur-1,entC
+Fur-1,entE
+Fur-1,entB
+Fur-1,entA
+Fur-1,entH
+Fur-1,ybiI
+Fur-1,ybiX
+Fur-1,fiu
+Fur-1,fhuE
+Fur-1,sodB
+Fur-1,sufE
+Fur-1,sufS
+Fur-1,sufD
+Fur-1,sufC
+Fur-1,ydiE
+Fur-1,rcnA
+Fur-1,cirA
+Fur-1,nrdI
+Fur-1,nrdE
+Fur-1,nrdF
+Fur-1,ybdZ
+Fur-1,yjjZ
+ykgR,ykgR
+Sulfate,tauA
+Sulfate,tauB
+Sulfate,tauC
+Sulfate,tauD
+Sulfate,ssuB
+Sulfate,ssuC
+Sulfate,ssuD
+Sulfate,ssuA
+Sulfate,ssuE
+Sulfate,ydhP
+Sulfate,cbl
+Sulfate,yfgH
+Sulfate,nlpA
+Sulfate,sbp
+Sulfate,cdh
+Sulfate,iraD
+Sulfate,ytiD
+ypaB,ypaB
+Fur-2,fhuA
+Fur-2,fhuC
+Fur-2,fhuD
+Fur-2,fhuB
+Fur-2,ybaN
+Fur-2,fes
+Fur-2,fepC
+Fur-2,fepG
+Fur-2,fepD
+Fur-2,entS
+Fur-2,fepB
+Fur-2,entC
+Fur-2,entA
+Fur-2,entH
+Fur-2,ybiX
+Fur-2,efeO
+Fur-2,tonB
+Fur-2,yncE
+Fur-2,yddA
+Fur-2,ydhV
+Fur-2,ydhY
+Fur-2,ydiE
+Fur-2,mntP
+Fur-2,ftnA
+Fur-2,rcnA
+Fur-2,preT
+Fur-2,preA
+Fur-2,yojI
+Fur-2,nrdH
+Fur-2,nrdI
+Fur-2,exbD
+Fur-2,exbB
+Fur-2,nfeF
+Fur-2,bfd
+Fur-2,feoA
+Fur-2,feoB
+Fur-2,feoC
+Fur-2,sodA
+Fur-2,fecR
+Fur-2,fecI
+Fur-2,fhuF
+Fur-2,efeU
+Fur-2,ybdZ
+Fur-2,yciX
+Magnesium,pdhR
+Magnesium,ecpB
+Magnesium,ecpA
+Magnesium,matA
+Magnesium,borD
+Magnesium,ompT
+Magnesium,ybjG
+Magnesium,ybjX
+Magnesium,phoP
+Magnesium,iraM
+Magnesium,ydeT
+Magnesium,rstA
+Magnesium,rstB
+Magnesium,slyB
+Magnesium,yoaE
+Magnesium,yebO
+Magnesium,mgrB
+Magnesium,pmrD
+Magnesium,mgtA
+Magnesium,opgB
+Magnesium,yoaL
+Nitrate/Nitrite,narK
+Nitrate/Nitrite,narH
+Nitrate/Nitrite,narJ
+Nitrate/Nitrite,narI
+Nitrate/Nitrite,yeaR
+Nitrate/Nitrite,napA
+Nitrate/Nitrite,napD
+Nitrate/Nitrite,napF
+Nitrate/Nitrite,nirB
+glrR KO,ydfA
+glrR KO,glnB
+glrR KO,glrR
+glrR KO,ubiK
+glrR KO,xylB
+glrR KO,xylA
+glrR KO,xylE
+Fnr-1,dcuC
+Fnr-1,dmsA
+Fnr-1,dmsB
+Fnr-1,dmsC
+Fnr-1,pflB
+Fnr-1,ompW
+Fnr-1,yciE
+Fnr-1,yciF
+Fnr-1,fdnG
+Fnr-1,ynfE
+Fnr-1,ynfF
+Fnr-1,ynfG
+Fnr-1,ynfH
+Fnr-1,ynfM
+Fnr-1,ydjY
+Fnr-1,ydjZ
+Fnr-1,ynjA
+Fnr-1,ynjE
+Fnr-1,yoaG
+Fnr-1,yeaR
+Fnr-1,alaE
+Fnr-1,hypB
+Fnr-1,hypC
+Fnr-1,hypD
+Fnr-1,hypE
+Fnr-1,hybB
+Fnr-1,hybA
+Fnr-1,ubiV
+Fnr-1,nirD
+Fnr-1,nirC
+Fnr-1,feoA
+Fnr-1,feoC
+Fnr-1,nikA
+Fnr-1,ccp
+Fnr-1,fumB
+Fnr-1,dcuB
+Fnr-1,frdD
+Fnr-1,frdC
+Fnr-1,frdB
+Fnr-1,frdA
+Fnr-1,nrdG
+Fnr-1,nrdD
+Fnr-1,yjiL
+Fnr-1,yjiM
+Fnr-1,yjjW
+Fnr-1,ybgU
+Pyrimidine,carA
+Pyrimidine,carB
+Pyrimidine,caiF
+Pyrimidine,codB
+Pyrimidine,codA
+Pyrimidine,pyrD
+Pyrimidine,pyrC
+Pyrimidine,uraA
+Pyrimidine,upp
+Pyrimidine,ridA
+Pyrimidine,pyrI
+Pyrimidine,pyrB
+Pyrimidine,pyrL
+Zinc-2,zraP
+NRZ,narV
+NRZ,narW
+NRZ,narY
+NRZ,narZ
+NRZ,narU
+NRZ,ymdF
+nquinone ALE 3,mog
+nquinone ALE 3,pdhR
+nquinone ALE 3,map
+nquinone ALE 3,yajQ
+nquinone ALE 3,ppiB
+nquinone ALE 3,nfsB
+nquinone ALE 3,trxB
+nquinone ALE 3,mgsA
+nquinone ALE 3,yccA
+nquinone ALE 3,ycfJ
+nquinone ALE 3,slyB
+nquinone ALE 3,punC
+nquinone ALE 3,tsuA
+nquinone ALE 3,yeiP
+nquinone ALE 3,yfcZ
+nquinone ALE 3,ptsP
+nquinone ALE 3,rppH
+nquinone ALE 3,rpmA
+nquinone ALE 3,rplU
+nquinone ALE 3,gltF
+nquinone ALE 3,nfuA
+nquinone ALE 3,yibL
+nquinone ALE 3,rbsD
+nquinone ALE 3,ubiC
+nquinone ALE 3,efp
+nquinone ALE 3,ppa
+RpoE,degP
+RpoE,ybfG
+RpoE,yeaY
+RpoE,cutC
+RpoE,yfeK
+RpoE,yfeS
+RpoE,yfeY
+RpoE,rseC
+RpoE,rseB
+RpoE,rseA
+RpoE,rpoE
+RpoE,ygiM
+RpoE,yhjJ
+Cellulose,caiF
+Cellulose,leuO
+Cellulose,yagU
+Cellulose,yahD
+Cellulose,yahN
+Cellulose,yahO
+Cellulose,iraP
+Cellulose,phoA
+Cellulose,ykiA
+Cellulose,maa
+Cellulose,hha
+Cellulose,fetA
+Cellulose,ybcW
+Cellulose,ybcY
+Cellulose,mdfA
+Cellulose,ybjL
+Cellulose,ybjM
+Cellulose,aqpZ
+Cellulose,ybjD
+Cellulose,ycaN
+Cellulose,ycaK
+Cellulose,zapC
+Cellulose,cspG
+Cellulose,ymdA
+Cellulose,ymdB
+Cellulose,yceI
+Cellulose,yceJ
+Cellulose,bssS
+Cellulose,bluR
+Cellulose,bluF
+Cellulose,ymgD
+Cellulose,ycgJ
+Cellulose,chaA
+Cellulose,chaB
+Cellulose,tdk
+Cellulose,kch
+Cellulose,mppA
+Cellulose,pinR
+Cellulose,ydcL
+Cellulose,dosP
+Cellulose,dosC
+Cellulose,dgcZ
+Cellulose,hdhA
+Cellulose,cnu
+Cellulose,ydiP
+Cellulose,ppsR
+Cellulose,spy
+Cellulose,ftnB
+Cellulose,ftnA
+Cellulose,yecF
+Cellulose,hprS
+Cellulose,hprR
+Cellulose,yehR
+Cellulose,mepS
+Cellulose,nudI
+Cellulose,yfdK
+Cellulose,yffB
+Cellulose,yfiR
+Cellulose,dgcN
+Cellulose,yfiB
+Cellulose,stpA
+Cellulose,iap
+Cellulose,casE
+Cellulose,casD
+Cellulose,casC
+Cellulose,glcA
+Cellulose,yhcF
+Cellulose,yhdV
+Cellulose,yhjB
+Cellulose,bcsQ
+Cellulose,yhjR
+Cellulose,bcsE
+Cellulose,bcsF
+Cellulose,bcsG
+Cellulose,pyrE
+Cellulose,nlpA
+Cellulose,yihG
+Cellulose,yiiS
+Cellulose,uspD
+Cellulose,yjbE
+Cellulose,rdcA
+Cellulose,adiC
+Cellulose,adiY
+Cellulose,cadC
+Cellulose,pyrL
+Cellulose,yjhD
+Cellulose,nanM
+Cellulose,yjiT
+Cellulose,bglJ
+Cellulose,ydbA
+Cellulose,gnsA
+Cellulose,ymiA
+Cellulose,yciX
+Cellulose,yicS
+Cellulose,yjhZ
+Phosphate-1,phoE
+Phosphate-1,phoA
+Phosphate-1,phoB
+Phosphate-1,phoU
+Phosphate-1,pstB
+Phosphate-1,pstA
+Phosphate-1,pstC
+Phosphate-1,pstS
+Salicylic Acid,bhsA
+Salicylic Acid,marR
+Salicylic Acid,marA
+Salicylic Acid,marB
+Salicylic Acid,yhcN
+Salicylic Acid,aaeB
+Salicylic Acid,aaeA
+Salicylic Acid,aaeX
+Salicylic Acid,ybdD
+ymgI,ymgG
+ymgI,ymgI
+ymgI,ymgJ
+ymgI,ybgU
+Galactose,galM
+Galactose,galK
+Galactose,galT
+Galactose,galE
+Galactose,mglC
+Galactose,mglA
+Galactose,mglB
+Galactose,galS
+Galactose,galP
+Galactose,sgrT
+trxC Del,yfiF
+trxC Del,trxC
+trxC Del,tapT
+ArcA,pdhR
+ArcA,acnB
+ArcA,gcd
+ArcA,betB
+ArcA,betI
+ArcA,betT
+ArcA,prpR
+ArcA,mhpR
+ArcA,cyoA
+ArcA,ylaC
+ArcA,ybcV
+ArcA,ybcW
+ArcA,appY
+ArcA,gltA
+ArcA,sdhC
+ArcA,cydA
+ArcA,cydB
+ArcA,modF
+ArcA,bssR
+ArcA,ybjM
+ArcA,focA
+ArcA,putA
+ArcA,phoH
+ArcA,icd
+ArcA,bluF
+ArcA,ymgA
+ArcA,dadA
+ArcA,dadX
+ArcA,ompW
+ArcA,acnA
+ArcA,puuA
+ArcA,puuD
+ArcA,ynaJ
+ArcA,feaR
+ArcA,aldA
+ArcA,ydcI
+ArcA,ydgC
+ArcA,fumC
+ArcA,fumA
+ArcA,yeaC
+ArcA,msrB
+ArcA,yehD
+ArcA,mglA
+ArcA,mglB
+ArcA,yeiQ
+ArcA,yejG
+ArcA,mqo
+ArcA,nuoA
+ArcA,argT
+ArcA,fadI
+ArcA,ndk
+ArcA,hcaR
+ArcA,trxC
+ArcA,kgtP
+ArcA,yqeF
+ArcA,yqeI
+ArcA,glcC
+ArcA,kefB
+ArcA,kefG
+ArcA,nudE
+ArcA,feoA
+ArcA,feoB
+ArcA,glpE
+ArcA,ugpB
+ArcA,yhjE
+ArcA,dctA
+ArcA,lldP
+ArcA,lldR
+ArcA,lldD
+ArcA,rarD
+ArcA,yigI
+ArcA,fadB
+ArcA,fdoG
+ArcA,sthA
+ArcA,rsd
+ArcA,ytfF
+ArcA,yjiJ
+ArcA,yjiR
+ArcA,yohO
+ArcA,mntS
+ArcA,ybgU
+yceO,yceO
+Potassium,kdpE
+Potassium,kdpD
+Potassium,kdpC
+Potassium,kdpB
+Potassium,kdpA
+ROS TALE Del-1,yhhH
+ROS TALE Del-1,yhhJ
+ROS TALE Del-1,rbbA
+ROS TALE Del-1,yhiI
+ROS TALE Del-1,yhiN
+ROS TALE Del-1,pitA
+ROS TALE Del-1,uspB
+ROS TALE Del-1,uspA
+ROS TALE Del-1,dtpB
+ROS TALE Del-1,rsmJ
+ROS TALE Del-1,prlC
+ROS TALE Del-1,rlmJ
+ROS TALE Del-1,gor
+ROS TALE Del-1,arsC
+cyoB/kdpE/qseB KO,cyoE
+cyoB/kdpE/qseB KO,cyoD
+cyoB/kdpE/qseB KO,cyoC
+cyoB/kdpE/qseB KO,cyoB
+cyoB/kdpE/qseB KO,cyoA
+cyoB/kdpE/qseB KO,qseB
+cyoB/kdpE/qseB KO,qseC
+cyoB/kdpE/qseB KO,mdtL
+Isc System,sseB
+Isc System,pepB
+Isc System,iscX
+Isc System,fdx
+Isc System,hscA
+Isc System,hscB
+Isc System,iscA
+Isc System,iscU
+Isc System,iscS
+Isc System,iscR
+Isc System,nfuA
+Thiamine-2,thiP
+Thiamine-2,thiB
+Thiamine-2,bhsA
+Thiamine-2,yegX
+Thiamine-2,thiD
+Thiamine-2,thiM
+crp KO-1,gcd
+crp KO-1,tsx
+crp KO-1,rhlE
+crp KO-1,ybiJ
+crp KO-1,ybiV
+crp KO-1,bhsA
+crp KO-1,yneE
+crp KO-1,ydeA
+crp KO-1,ydhP
+crp KO-1,ydiH
+crp KO-1,yedJ
+crp KO-1,drpB
+crp KO-1,guaB
+crp KO-1,raiA
+crp KO-1,mscS
+crp KO-1,yhcN
+crp KO-1,crp
+crp KO-1,tsgA
+crp KO-1,pck
+crp KO-1,nepI
+crp KO-1,psiE
+crp KO-1,yjcB
+crp KO-1,proP
+crp KO-1,arcA
+SSW SNPs,mbiA
+SSW SNPs,yaaI
+SSW SNPs,ykfI
+SSW SNPs,yafW
+SSW SNPs,ykfG
+SSW SNPs,yafX
+SSW SNPs,ykfF
+SSW SNPs,yafZ
+SSW SNPs,insF1
+SSW SNPs,yahH
+SSW SNPs,acrR
+SSW SNPs,insF3
+SSW SNPs,rzpD
+SSW SNPs,citG
+SSW SNPs,citE
+SSW SNPs,ybeF
+SSW SNPs,ybgO
+SSW SNPs,ssuE
+SSW SNPs,insB4
+SSW SNPs,yccM
+SSW SNPs,yceK
+SSW SNPs,yceQ
+SSW SNPs,ymfJ
+SSW SNPs,ymfT
+SSW SNPs,ymfL
+SSW SNPs,ymfR
+SSW SNPs,ychS
+SSW SNPs,rzpR
+SSW SNPs,hslJ
+SSW SNPs,insI2
+SSW SNPs,yddH
+SSW SNPs,yneG
+SSW SNPs,marB
+SSW SNPs,pinQ
+SSW SNPs,ydfV
+SSW SNPs,insD7
+SSW SNPs,ynfE
+SSW SNPs,ydjO
+SSW SNPs,ynjI
+SSW SNPs,pphA
+SSW SNPs,yecT
+SSW SNPs,araG
+SSW SNPs,intG
+SSW SNPs,yeeT
+SSW SNPs,cbeA
+SSW SNPs,cbtA
+SSW SNPs,insF5
+SSW SNPs,yehW
+SSW SNPs,arnF
+SSW SNPs,yfeS
+SSW SNPs,eutB
+SSW SNPs,yfiM
+SSW SNPs,yfjU
+SSW SNPs,yfjX
+SSW SNPs,yfjZ
+SSW SNPs,yqgC
+SSW SNPs,yqgD
+SSW SNPs,yghE
+SSW SNPs,ttdT
+SSW SNPs,aaeA
+SSW SNPs,aaeX
+SSW SNPs,gspK
+SSW SNPs,gspL
+SSW SNPs,gspO
+SSW SNPs,yhfU
+SSW SNPs,insB6
+SSW SNPs,bglF
+SSW SNPs,yifB
+SSW SNPs,cyaY
+SSW SNPs,arpA
+SSW SNPs,phnL
+SSW SNPs,yjeJ
+SSW SNPs,yjeO
+SSW SNPs,ytfA
+SSW SNPs,ytfP
+SSW SNPs,insD6
+SSW SNPs,yjhF
+SSW SNPs,sgcQ
+SSW SNPs,sgcX
+SSW SNPs,bglJ
+SSW SNPs,yjjY
+SSW SNPs,hokA
+SSW SNPs,yeiW
+SSW SNPs,yafF
+SSW SNPs,ykfH
+SSW SNPs,yohO
+SSW SNPs,topAI
+SSW SNPs,yaiT
+SSW SNPs,ynaM
+yafF,yafF
+NtrC-2,glnK
+NtrC-2,amtB
+NtrC-2,bhsA
+NtrC-2,ddpX
+NtrC-2,yedL
+NtrC-2,nac
+NtrC-2,yhdW
+NtrC-2,glnG
+NtrC-2,glnL
+NtrC-2,glnA
+DNA Damage,polB
+DNA Damage,dinB
+DNA Damage,uvrB
+DNA Damage,sulA
+DNA Damage,dinI
+DNA Damage,umuD
+DNA Damage,umuC
+DNA Damage,ydjM
+DNA Damage,cho
+DNA Damage,yebF
+DNA Damage,yebG
+DNA Damage,recN
+DNA Damage,recX
+DNA Damage,recA
+DNA Damage,dinD
+DNA Damage,lexA
+DNA Damage,dinF
+DNA Damage,uvrA
+UC-3,gcd
+UC-3,cdaR
+UC-3,malZ
+UC-3,cstA
+UC-3,cspD
+UC-3,ompF
+UC-3,ynfM
+UC-3,asr
+UC-3,uidC
+UC-3,uidB
+UC-3,uidA
+UC-3,uidR
+UC-3,fadD
+UC-3,mtfA
+UC-3,mglC
+UC-3,mglA
+UC-3,mglB
+UC-3,yeiQ
+UC-3,fadJ
+UC-3,fadI
+UC-3,fadL
+UC-3,csiE
+UC-3,hcaR
+UC-3,ygaY
+UC-3,kduI
+UC-3,yqeF
+UC-3,ebgC
+UC-3,uxaA
+UC-3,uxaC
+UC-3,kbaZ
+UC-3,agaV
+UC-3,nanA
+UC-3,tsgA
+UC-3,yhfZ
+UC-3,pck
+UC-3,malQ
+UC-3,malP
+UC-3,malT
+UC-3,treF
+UC-3,mtlA
+UC-3,mtlD
+UC-3,mtlR
+UC-3,dinD
+UC-3,mdtL
+UC-3,fadA
+UC-3,fadB
+UC-3,glpK
+UC-3,glpF
+UC-3,yjcB
+UC-3,ybdD
+UC-3,sgrT
+YieP,ykgE
+YieP,ykgF
+YieP,ykgG
+YieP,dauA
+YieP,cfa
+YieP,yohJ
+YieP,yohK
+YieP,cdd
+YieP,yieP
+YieP,adiY
+Nitrogen,codB
+Nitrogen,cynR
+Nitrogen,ybeQ
+Nitrogen,ompF
+Nitrogen,abgR
+Nitrogen,feaR
+Nitrogen,ydcS
+Nitrogen,ydcT
+Nitrogen,ydcU
+Nitrogen,ydcV
+Nitrogen,patD
+Nitrogen,yedL
+Nitrogen,shiA
+Nitrogen,nac
+Nitrogen,gabD
+Nitrogen,gabT
+Nitrogen,gabP
+Nitrogen,glaR
+Nitrogen,guaD
+Nitrogen,serA
+Nitrogen,ygiL
+Nitrogen,gltB
+Nitrogen,gltD
+Nitrogen,nanA
+Nitrogen,gspC
+Nitrogen,gspE
+Nitrogen,yrhB
+Nitrogen,yhjE
+Nitrogen,asnA
+Nitrogen,cycA
+Nitrogen,ghxQ
+Nitrogen,ymdG
+UC-6,pdhR
+UC-6,panD
+UC-6,yoaC
+UC-6,yebV
+UC-6,sbmC
+UC-6,yeiS
+UC-6,ygaM
+UC-6,yhaH
+UC-6,rraA
+UC-6,ynfO
+UC-6,sgrT
+Leu/Val/Ile,thrB
+Leu/Val/Ile,thrC
+Leu/Val/Ile,yaaX
+Leu/Val/Ile,nadA
+Leu/Val/Ile,pnuC
+Leu/Val/Ile,nadB
+Leu/Val/Ile,ilvM
+Leu/Val/Ile,ilvE
+Leu/Val/Ile,ilvD
+Leu/Val/Ile,ilvA
+Leu/Val/Ile,ilvG
+NDH-1,sodB
+NDH-1,mqo
+NDH-1,nuoN
+NDH-1,nuoM
+NDH-1,nuoL
+NDH-1,nuoK
+NDH-1,nuoJ
+NDH-1,nuoI
+NDH-1,nuoH
+NDH-1,nuoG
+NDH-1,nuoF
+NDH-1,ubiC
+Crp-1,yadI
+Crp-1,ykgE
+Crp-1,yahN
+Crp-1,yaiZ
+Crp-1,ybaE
+Crp-1,chiP
+Crp-1,ybhQ
+Crp-1,agp
+Crp-1,ymfE
+Crp-1,ychH
+Crp-1,ompW
+Crp-1,pspE
+Crp-1,ydcJ
+Crp-1,ydcH
+Crp-1,rimL
+Crp-1,ydcS
+Crp-1,yddH
+Crp-1,malI
+Crp-1,ydiL
+Crp-1,ydjF
+Crp-1,dmlR
+Crp-1,mtfA
+Crp-1,yohJ
+Crp-1,preT
+Crp-1,galS
+Crp-1,atoS
+Crp-1,glpT
+Crp-1,yfaX
+Crp-1,pmrD
+Crp-1,yfeC
+Crp-1,ucpA
+Crp-1,raiA
+Crp-1,yqcE
+Crp-1,fucP
+Crp-1,ygeV
+Crp-1,yqeC
+Crp-1,mocA
+Crp-1,glcC
+Crp-1,gpr
+Crp-1,glgS
+Crp-1,ygjR
+Crp-1,tdcB
+Crp-1,tdcA
+Crp-1,yhdU
+Crp-1,yhfY
+Crp-1,yhfZ
+Crp-1,malT
+Crp-1,yidF
+Crp-1,rbsA
+Crp-1,yihL
+Crp-1,rhaS
+Crp-1,rhaR
+Crp-1,alsR
+Crp-1,rpiB
+Crp-1,melR
+Crp-1,aspA
+Crp-1,yjfN
+Crp-1,bsmA
+Crp-1,ytfJ
+Crp-1,lgoR
+Crp-1,ymjC
+yneP,ymfR
+yneP,eutN
+yneP,yniD
+yneP,ymcF
+yneP,yncO
+yneP,yneP
+NtrC-1,glnK
+NtrC-1,amtB
+NtrC-1,chaC
+NtrC-1,ddpF
+NtrC-1,ddpD
+NtrC-1,ddpC
+NtrC-1,ddpB
+NtrC-1,ddpA
+NtrC-1,ddpX
+NtrC-1,ynfM
+NtrC-1,astE
+NtrC-1,astB
+NtrC-1,astD
+NtrC-1,astA
+NtrC-1,astC
+NtrC-1,cbl
+NtrC-1,patA
+NtrC-1,cycA
+Ribose,rbsD
+Ribose,rbsA
+Ribose,rbsC
+Ribose,rbsB
+Ribose,rbsK
+Dipeptide,fliI
+Dipeptide,fliJ
+Dipeptide,fliK
+Dipeptide,dppF
+Dipeptide,dppD
+Dipeptide,dppC
+Dipeptide,dppB
+Dipeptide,dppA
+Curli-1,csgG
+Curli-1,csgF
+Curli-1,csgE
+Curli-1,csgD
+Curli-1,csgB
+Curli-1,csgA
+ymiB,ymiB
+yjjZ,mntH
+yjjZ,yjjZ
+Molybdenum,modA
+Molybdenum,modB
+Molybdenum,modC
+Molybdenum,yghW
+Molybdenum,uhpT
+e14 Del,ymfD
+e14 Del,ymfE
+e14 Del,lit
+e14 Del,intE
+e14 Del,xisE
+e14 Del,ymfI
+e14 Del,ymfJ
+e14 Del,ymfK
+e14 Del,tfaP
+e14 Del,tfaE
+e14 Del,mcrA
+e14 Del,iraM
+e14 Del,crp
+e14 Del,icdC
+Thr/Ser-1,pdhR
+Thr/Ser-1,ndh
+Thr/Ser-1,mdtJ
+Thr/Ser-1,grcA
+Thr/Ser-1,tdcF
+Thr/Ser-1,tdcE
+Thr/Ser-1,tdcD
+Thr/Ser-1,tdcC
+Thr/Ser-1,tdcB
+Thr/Ser-1,tdcA
+Thr/Ser-1,nirC
+Thr/Ser-1,uhpT
+Thr/Ser-1,dtpC
+Thr/Ser-1,cadA
+Thr/Ser-1,cadB
+Thr/Ser-1,tdcG
+Tryptophan,trpA
+Tryptophan,trpB
+Tryptophan,trpC
+Tryptophan,trpD
+Tryptophan,trpE
+Tryptophan,aroH
+Tryptophan,mtr
+Tryptophan,tnaA
+FHL,hydN
+FHL,hycF
+FHL,hycE
+FHL,hycD
+FHL,hycC
+FHL,hycB
+FHL,hycA
+Glycine,ygfF
+Glycine,gcvP
+Glycine,gcvH
+Glycine,gcvT
+Glycine,livJ
+BW25113,araD
+BW25113,araA
+BW25113,araB
+BW25113,fadE
+BW25113,lacZ
+BW25113,mhpC
+BW25113,mhpD
+BW25113,mhpF
+BW25113,mhpE
+BW25113,mhpT
+BW25113,borD
+BW25113,fabA
+BW25113,pheT
+BW25113,pheS
+BW25113,fabB
+BW25113,pheA
+BW25113,trhA
+BW25113,pyrE
+BW25113,rhaD
+BW25113,rhaA
+BW25113,rhaT
+BW25113,tabA
+BW25113,yjgL
+BW25113,hsdR
+BW25113,yjjB
+BW25113,yjjP
+ypjJ,rzpR
+ypjJ,ydfR
+ypjJ,intG
+ypjJ,yfaH
+ypjJ,yfdT
+ypjJ,ynfO
+ypjJ,ypjJ
+PaaX,paaZ
+PaaX,paaA
+PaaX,paaB
+PaaX,paaC
+PaaX,paaD
+PaaX,paaE
+PaaX,paaF
+PaaX,paaG
+PaaX,metE
+Flagella,ymdA
+Flagella,fliI
+Flagella,fliJ
+Flagella,fliK
+SCFA,atoD
+SCFA,atoA
+SCFA,atoE
+SCFA,atoB
+YgeV,xdhA
+YgeV,xdhB
+YgeV,ygeW
+YgeV,ygeX
+YgeV,ygeY
+YgeV,hyuA
+YgeV,ygfK
+YgeV,ssnA
+YgeV,ygfM
+YgeV,xdhD
+YgeV,ygfT
+YgeV,uacT
+YgeV,cpxR
+pts ALE,yaaX
+pts ALE,mltD
+pts ALE,yajI
+pts ALE,opgC
+pts ALE,yceB
+pts ALE,bhsA
+pts ALE,ycfT
+pts ALE,ydcF
+pts ALE,bdm
+pts ALE,chbR
+pts ALE,ynjI
+pts ALE,rcsA
+pts ALE,yodB
+pts ALE,wzzB
+pts ALE,gnd
+pts ALE,galF
+pts ALE,yegS
+pts ALE,dedA
+pts ALE,epmC
+pts ALE,yfdC
+pts ALE,ptsH
+pts ALE,ptsI
+pts ALE,crr
+pts ALE,iap
+pts ALE,srsR
+pts ALE,yggE
+pts ALE,mlaB
+pts ALE,mlaC
+pts ALE,degQ
+pts ALE,fkpA
+pts ALE,crp
+pts ALE,uhpT
+pts ALE,treR
+pts ALE,iraD
+pts ALE,ymiA
+pts ALE,yciX
+pts ALE,yobH
+FDH-O,fdnH
+FDH-O,ynjE
+FDH-O,yedE
+FDH-O,yedF
+FDH-O,fdoI
+FDH-O,fdoH
+FDH-O,fdoG
+GlcNAc,nagC
+GlcNAc,nagA
+GlcNAc,nagB
+GlcNAc,nagE
+GlcNAc,chiP
+GlcNAc,chiQ
+GlcNAc,ydeM
+GlcNAc,ydeN
+GlcNAc,dtpA
+GlcNAc,nemR
+GlcNAc,chbC
+GlcNAc,chbB
+GlcNAc,tyrP
+GlcNAc,galP
+GlcNAc,glmS
+GlcNAc,glmU
+GlcNAc,tpiA
+YgbI,araD
+YgbI,araA
+YgbI,hyi
+YgbI,glxR
+YgbI,dmlA
+YgbI,ygbJ
+YgbI,ygbK
+YgbI,ygbL
+YgbI,ygbM
+YgbI,ygbN
+Lysine/T2SS,dapB
+Lysine/T2SS,yaeI
+Lysine/T2SS,dapD
+Lysine/T2SS,maa
+Lysine/T2SS,hha
+Lysine/T2SS,tomB
+Lysine/T2SS,nadA
+Lysine/T2SS,flxA
+Lysine/T2SS,gdhA
+Lysine/T2SS,dmlA
+Lysine/T2SS,lysP
+Lysine/T2SS,nadB
+Lysine/T2SS,lysA
+Lysine/T2SS,gspC
+Lysine/T2SS,gspD
+Lysine/T2SS,gspE
+Lysine/T2SS,gspF
+Lysine/T2SS,gspG
+Lysine/T2SS,glgA
+Lysine/T2SS,glgC
+Lysine/T2SS,glgX
+Lysine/T2SS,glgB
+Lysine/T2SS,asd
+Lysine/T2SS,asnA
+Lysine/T2SS,yjbD
+Lysine/T2SS,lysC
+Lysine/T2SS,yqiD
+Fnr-3,bssR
+Fnr-3,dmsA
+Fnr-3,focA
+Fnr-3,narK
+Fnr-3,ompW
+Fnr-3,ortT
+Fnr-3,fdnG
+Fnr-3,ydfZ
+Fnr-3,ynfE
+Fnr-3,bidA
+Fnr-3,ydjX
+Fnr-3,ydjY
+Fnr-3,ynjE
+Fnr-3,yecH
+Fnr-3,yehD
+Fnr-3,napF
+Fnr-3,yfcZ
+Fnr-3,iscR
+Fnr-3,grcA
+Fnr-3,hypB
+Fnr-3,ttdR
+Fnr-3,ubiU
+Fnr-3,ubiV
+Fnr-3,yhcC
+Fnr-3,nirB
+Fnr-3,feoA
+Fnr-3,nikA
+Fnr-3,nrdD
+Fnr-3,yjjI
+Fnr-3,ynfO
+Fnr-3,yoeA
+Fnr-3,ylcI
+Fnr-3,yqiD
+ythA,yffM
+ythA,ygjH
+ythA,ythA
+entC/ubiC KO-1,entC
+entC/ubiC KO-1,appC
+entC/ubiC KO-1,menE
+entC/ubiC KO-1,menC
+entC/ubiC KO-1,menD
+entC/ubiC KO-1,menF
+yoaI,yoaI
+Gluconate,aroP
+Gluconate,eda
+Gluconate,edd
+Gluconate,gntT
+Gluconate,gntK
+Gluconate,fdoH
+Gluconate,idnR
+Gluconate,idnT
+Gluconate,idnO
+Gluconate,idnD
+Gluconate,idnK
+Gluconate,gntU
+UC-9,fur
+UC-9,rspB
+UC-9,rspA
+UC-9,yeiQ
+UC-9,uxaA
+UC-9,uxaC
+UC-9,ibpB
+UC-9,rhaS
+UC-9,malE
+UC-9,uxuA
+Copper,cueO
+Copper,copA
+Copper,cusS
+Copper,cusR
+Copper,cusC
+Copper,cusF
+Copper,cusB
+Copper,cusA
+Copper,pheP
+Copper,hprS
+Copper,hprR
+Thr/Ser-2,tdcD
+Thr/Ser-2,tdcC
+Thr/Ser-2,tdcB
+Thr/Ser-2,tdcA
+Thr/Ser-2,cadB
+Membrane,fsr
+Membrane,tfaX
+Membrane,dgcI
+Membrane,gfcA
+Membrane,dgcT
+Membrane,pqqL
+Membrane,yddB
+Membrane,yddA
+Membrane,fumD
+Membrane,gdhA
+Membrane,yebQ
+Membrane,ftnB
+Membrane,yedA
+Membrane,tsuB
+Membrane,tsuA
+Membrane,yfaZ
+Membrane,evgA
+Membrane,evgS
+Membrane,ygaY
+Membrane,ygaH
+Membrane,mprA
+Membrane,yghE
+Membrane,yghF
+Membrane,yghG
+Membrane,pppA
+Membrane,yqiJ
+Membrane,yraQ
+Membrane,gdx
+Membrane,iraD
+Membrane,kptA
+Membrane,yghJ
+Membrane,ycgH
+Membrane,ytiD
+Thiamine-1,thiB
+Thiamine-1,thiD
+Thiamine-1,thiM
+Thiamine-1,thiH
+Thiamine-1,thiG
+Thiamine-1,thiF
+Thiamine-1,thiE
+Thiamine-1,thiC
+Thiamine-1,thiS
+Cold Shock,cspH
+Cold Shock,cspG
+Cold Shock,pinR
+Cold Shock,ynaE
+Cold Shock,ynfN
+Cold Shock,cspI
+Cold Shock,cspB
+Cold Shock,cspF
+Cold Shock,lpxP
+Cold Shock,stpA
+Cold Shock,cspA
+Cold Shock,ymcF
+Cold Shock,ynfQ
+Cold Shock,ynaM
+Cold Shock,ynfT
+FliA,ykfB
+FliA,modA
+FliA,modB
+FliA,modC
+FliA,flgN
+FliA,flgM
+FliA,flgK
+FliA,flgL
+FliA,bhsA
+FliA,ycgR
+FliA,trg
+FliA,flxA
+FliA,ves
+FliA,ynjH
+FliA,cheZ
+FliA,cheY
+FliA,cheB
+FliA,cheR
+FliA,tap
+FliA,tar
+FliA,cheW
+FliA,cheA
+FliA,motB
+FliA,motA
+FliA,fliZ
+FliA,fliC
+FliA,fliD
+FliA,fliS
+FliA,fliT
+FliA,fliK
+FliA,aer
+FliA,yhjG
+FliA,pdeH
+FliA,uhpT
+FliA,rdcA
+FliA,rdcB
+FliA,tsr
+Pyruvate-1,aceE
+Pyruvate-1,aceF
+Pyruvate-1,mqo
+Pyruvate-1,yjiA
+Pyruvate-1,yjiX
+Pyruvate-1,btsT
+ldrD,mokB
+ldrD,yffM
+ldrD,hokB
+ldrD,ldrD
+efeU Activation,entE
+efeU Activation,entB
+efeU Activation,entA
+efeU Activation,entH
+efeU Activation,efeO
+efeU Activation,efeB
+efeU Activation,phoH
+efeU Activation,ynfM
+efeU Activation,efeU
+rcsB KO,glsA
+rcsB KO,ybaT
+rcsB KO,rcsB
+rcsB KO,slp
+rcsB KO,dctR
+rcsB KO,gadE
+rcsB KO,mdtE
+rcsB KO,gadW
+malE OE,dicB
+malE OE,yeeT
+malE OE,malE
+Crp-2,aldA
+Crp-2,ydcH
+Crp-2,manX
+Crp-2,manY
+Crp-2,manZ
+Crp-2,yobD
+Crp-2,gatD
+Crp-2,gatC
+Crp-2,gatB
+Crp-2,gatA
+Crp-2,gatZ
+Crp-2,gatY
+Crp-2,mglC
+Crp-2,mglA
+Crp-2,mglB
+Crp-2,glpT
+Crp-2,raiA
+Crp-2,gpr
+Crp-2,yhfK
+Crp-2,pepE
+Crp-2,gatR
+Cysteine-1,iaaA
+Cysteine-1,gsiA
+Cysteine-1,gsiB
+Cysteine-1,yciW
+Cysteine-1,tcyP
+Cysteine-1,tcyN
+Cysteine-1,tcyL
+Cysteine-1,dcyD
+Cysteine-1,tcyJ
+Cysteine-1,cbl
+Cysteine-1,tsuB
+Cysteine-1,tsuA
+Cysteine-1,yeiE
+Cysteine-1,cysK
+Cysteine-1,cysM
+Cysteine-1,cysA
+Cysteine-1,cysW
+Cysteine-1,cysU
+Cysteine-1,cysP
+Cysteine-1,ygbE
+Cysteine-1,cysC
+Cysteine-1,cysN
+Cysteine-1,cysD
+Cysteine-1,cysH
+Cysteine-1,cysI
+Cysteine-1,cysJ
+Cysteine-1,nlpA
+Cysteine-1,sbp
+Cysteine-1,zraP
+Cysteine-1,iraD
+Cysteine-1,ytiC
+Cysteine-1,ytiD
+Pyruvate-2,yhjX
+Phosphate-2,phoE
+Phosphate-2,phoA
+Phosphate-2,psiF
+Phosphate-2,phoR
+Phosphate-2,ugpA
+Phosphate-2,ugpB
+Phosphate-2,waaH
+Phosphate-2,tpiA
+Phosphate-2,phnN
+Phosphate-2,phnM
+Phosphate-2,phnL
+Phosphate-2,phnK
+Phosphate-2,phnJ
+Phosphate-2,phnI
+Phosphate-2,phnH
+Phosphate-2,phnG
+Phosphate-2,phnF
+Phosphate-2,phnD
+Phosphate-2,phnC
+Phosphate-2,phnE
+Leucine,leuD
+Leucine,leuC
+Leucine,leuB
+Leucine,leuA
+Leucine,ilvN
+Capsule,malZ
+Capsule,lon
+Capsule,ybcI
+Capsule,ybdK
+Capsule,ycfT
+Capsule,rcsA
+Capsule,ugd
+Capsule,wcaM
+Capsule,wcaL
+Capsule,wcaK
+Capsule,wzxC
+Capsule,wcaJ
+Capsule,cpsG
+Capsule,cpsB
+Capsule,wcaI
+Capsule,gmm
+Capsule,fcl
+Capsule,gmd
+Capsule,wcaF
+Capsule,wcaE
+Capsule,wcaD
+Capsule,wcaC
+Capsule,wcaB
+Capsule,wcaA
+Capsule,wzc
+Capsule,wzb
+Capsule,wza
+Capsule,yghA
+Capsule,bacA
+Capsule,crp
+Capsule,yiaA
+Capsule,yiaB
+Capsule,yigG
+Capsule,yjbE
+Capsule,yjbF
+Capsule,yjbG
+Capsule,yjbH
+Capsule,ysaB
+ytiC,ytiC
+ytiC,ytiD
+ROS TALE Del-2,tdk
+ROS TALE Del-2,adhE
+ROS TALE Del-2,ychE
+ROS TALE Del-2,oppA
+ROS TALE Del-2,oppB
+ROS TALE Del-2,oppC
+ROS TALE Del-2,oppD
+ROS TALE Del-2,oppF
+ROS TALE Del-2,insZ
+UC-5,mog
+UC-5,opgE
+UC-5,gfcA
+UC-5,pdeR
+UC-5,ruvA
+UC-5,yohD
+UC-5,hydN
+UC-5,ascF
+UC-5,ascB
+UC-5,ugpB
+UC-5,waaH
+UC-5,rho
+UC-5,paeA
+UC-5,mcrC
+UC-5,icdC
+FlhDC-1,csgC
+FlhDC-1,ymdA
+FlhDC-1,flgM
+FlhDC-1,flgA
+FlhDC-1,flgB
+FlhDC-1,flgC
+FlhDC-1,flgD
+FlhDC-1,flgE
+FlhDC-1,flgI
+FlhDC-1,flgJ
+FlhDC-1,flgL
+FlhDC-1,ynjH
+FlhDC-1,flhE
+FlhDC-1,flhA
+FlhDC-1,flhB
+FlhDC-1,tar
+FlhDC-1,yecR
+FlhDC-1,fliA
+FlhDC-1,fliC
+FlhDC-1,fliD
+FlhDC-1,fliS
+FlhDC-1,fliT
+FlhDC-1,fliE
+FlhDC-1,fliG
+FlhDC-1,fliH
+FlhDC-1,fliN
+FlhDC-1,fliO
+FlhDC-1,fliP
+FlhDC-1,fliQ
+FlhDC-1,fliR
+FlhDC-1,rcsA
+FlhDC-1,yedN
+Putrescine,puuP
+Putrescine,puuA
+Putrescine,puuD
+Putrescine,puuR
+Putrescine,puuC
+Putrescine,puuB
+Putrescine,puuE
+Putrescine,ymjE
+ppGpp,rpsT
+ppGpp,folK
+ppGpp,pcnB
+ppGpp,mltD
+ppGpp,gpt
+ppGpp,queA
+ppGpp,thiI
+ppGpp,apt
+ppGpp,gsk
+ppGpp,miaB
+ppGpp,rhlE
+ppGpp,rlmF
+ppGpp,rimO
+ppGpp,rlmC
+ppGpp,lysO
+ppGpp,infA
+ppGpp,cmk
+ppGpp,pyrD
+ppGpp,murJ
+ppGpp,rluC
+ppGpp,potB
+ppGpp,potA
+ppGpp,hflD
+ppGpp,mnmA
+ppGpp,rluB
+ppGpp,pyrF
+ppGpp,yciH
+ppGpp,dbpA
+ppGpp,ydgK
+ppGpp,rsxA
+ppGpp,rsxB
+ppGpp,punC
+ppGpp,ydiY
+ppGpp,tsaB
+ppGpp,mntP
+ppGpp,plaP
+ppGpp,yegD
+ppGpp,trhP
+ppGpp,dusC
+ppGpp,mepS
+ppGpp,yojI
+ppGpp,fadL
+ppGpp,upp
+ppGpp,rlmN
+ppGpp,ndk
+ppGpp,suhB
+ppGpp,yfhL
+ppGpp,srmB
+ppGpp,queD
+ppGpp,rpsU
+ppGpp,rlmG
+ppGpp,secG
+ppGpp,yhbE
+ppGpp,rpmA
+ppGpp,rplU
+ppGpp,dusB
+ppGpp,fis
+ppGpp,tusA
+ppGpp,yhhQ
+ppGpp,pyrE
+ppGpp,rph
+ppGpp,rpmH
+ppGpp,rnpA
+ppGpp,yidC
+ppGpp,mnmG
+ppGpp,epmA
+ppGpp,holD
+ppGpp,rimI
+ppGpp,ygiQ
+ppGpp,yidD
+Glycolate,glcA
+Glycolate,glcB
+Glycolate,glcG
+Glycolate,glcD
+Glycolate,glcF
+Glycolate,glcE
+PAL 26 Del,hyi
+PAL 26 Del,rlmA
+PAL 26 Del,cspC
+PAL 26 Del,yobF
+PAL 26 Del,yebO
+PAL 26 Del,mgrB
+PAL 26 Del,kdgR
+PAL 26 Del,htpX
+PAL 26 Del,prc
+PAL 26 Del,proQ
+PAL 26 Del,msrC
+PAL 26 Del,letA
+PAL 26 Del,letB
+PAL 26 Del,rsmF
+PAL 26 Del,yebV
+PAL 26 Del,yebW
+PAL 26 Del,pphA
+PAL 26 Del,yebY
+PAL 26 Del,yebZ
+PAL 26 Del,yobA
+PAL 26 Del,holE
+PAL 26 Del,yobB
+PAL 26 Del,exoX
+PAL 26 Del,ptrB
+PAL 26 Del,yebE
+PAL 26 Del,yebF
+PAL 26 Del,yebG
+PAL 26 Del,purT
+PAL 26 Del,eda
+PAL 26 Del,edd
+PAL 26 Del,zwf
+PAL 26 Del,yebK
+PAL 26 Del,pykA
+PAL 26 Del,lpxM
+PAL 26 Del,mepM
+PAL 26 Del,kduD
+PAL 26 Del,kduI
+PAL 26 Del,gpr
+PAL 26 Del,kdgK
+PAL 26 Del,kdgT
+PAL 26 Del,yiiM
+PAL 26 Del,tabA
+PAL 26 Del,yobH
+LPS,ybbC
+LPS,appY
+LPS,ybfB
+LPS,ymfD
+LPS,iraM
+LPS,sieB
+LPS,trkG
+LPS,ydcD
+LPS,ydfO
+LPS,gnsB
+LPS,cspB
+LPS,cspC
+LPS,yobF
+LPS,wbbK
+LPS,wbbJ
+LPS,wbbI
+LPS,wbbH
+LPS,glf
+LPS,rfbX
+LPS,rfbC
+LPS,rfbA
+LPS,yfdI
+LPS,yfjW
+LPS,ygeN
+LPS,gadE
+LPS,htrL
+LPS,waaL
+LPS,waaU
+LPS,waaZ
+LPS,waaY
+LPS,waaJ
+LPS,waaO
+LPS,waaB
+LPS,waaS
+LPS,yigF
+LPS,ghoS
+LPS,yjgL
+LPS,wbbL
+LPS,ykgR
+LPS,ytiD
+LPS,ybgU
+LPS,ynaM
+LPS,ynfT
+Arginine,carA
+Arginine,carB
+Arginine,caiF
+Arginine,xynR
+Arginine,argF
+Arginine,dtpD
+Arginine,artJ
+Arginine,artM
+Arginine,artQ
+Arginine,artI
+Arginine,artP
+Arginine,hisP
+Arginine,hisM
+Arginine,hisQ
+Arginine,hisJ
+Arginine,argA
+Arginine,argG
+Arginine,argD
+Arginine,asnA
+Arginine,argE
+Arginine,argC
+Arginine,argB
+Arginine,argH
+Arginine,argI
+Nickel/Cobalt,rcnR
+Nickel/Cobalt,rcnA
+IS5,insH1
+IS5,insH2
+IS5,insH3
+IS5,insH6
+IS5,insH8
+IS5,insH10
+IS5,insH11
+IS5,treC
+IS5,treB
+NtrC-3,amtB
+NtrC-3,rutG
+NtrC-3,rutF
+NtrC-3,rutE
+NtrC-3,rutD
+NtrC-3,rutC
+NtrC-3,rutB
+NtrC-3,rutA
+NtrC-3,yedL
+NtrC-3,nac
+NtrC-3,argT
+NtrC-3,hypA
+NtrC-3,yqeB
+NtrC-3,yqeC
+NtrC-3,yhdW
+NtrC-3,yhdX
+NtrC-3,yhdY
+NtrC-3,yhdZ
+NtrC-3,yrhB
+NtrC-3,mgtA
+arcA/luxS KO,luxS
+arcA/luxS KO,arcA
+sdh KO,sdhC
+sdh KO,sdhD
+sdh KO,sdhA
+sdh KO,sdhB
+sdh KO,gnd
+YmfT,fur
+YmfT,sulA
+YmfT,intE
+YmfT,xisE
+YmfT,ymfH
+YmfT,ymfJ
+YmfT,ymfT
+YmfT,ymfL
+YmfT,ymfM
+YmfT,ymfN
+YmfT,ymfR
+YmfT,beeE
+YmfT,jayE
+YmfT,ymfQ
+YmfT,icdC
+Fnr-2,yaaJ
+Fnr-2,iprA
+Fnr-2,dcuC
+Fnr-2,abrB
+Fnr-2,ybiY
+Fnr-2,fsaA
+Fnr-2,yliI
+Fnr-2,hcr
+Fnr-2,hcp
+Fnr-2,dmsA
+Fnr-2,ycbJ
+Fnr-2,wrbA
+Fnr-2,ycfP
+Fnr-2,ndh
+Fnr-2,fnr
+Fnr-2,uspF
+Fnr-2,ydfZ
+Fnr-2,ynfE
+Fnr-2,bidA
+Fnr-2,tqsA
+Fnr-2,cnu
+Fnr-2,ydhV
+Fnr-2,ydhY
+Fnr-2,ydjX
+Fnr-2,yecH
+Fnr-2,yehC
+Fnr-2,glpA
+Fnr-2,yfbS
+Fnr-2,yfcC
+Fnr-2,aegA
+Fnr-2,grcA
+Fnr-2,srlR
+Fnr-2,hypA
+Fnr-2,hypB
+Fnr-2,hypC
+Fnr-2,ygcN
+Fnr-2,mocA
+Fnr-2,yqgA
+Fnr-2,hybO
+Fnr-2,ttdR
+Fnr-2,ubiT
+Fnr-2,ubiU
+Fnr-2,yhcC
+Fnr-2,feoA
+Fnr-2,feoB
+Fnr-2,ysaA
+Fnr-2,yidF
+Fnr-2,ravA
+Fnr-2,gldA
+Fnr-2,nrfA
+Fnr-2,dcuB
+Fnr-2,ghoS
+Fnr-2,aspA
+Fnr-2,frdA
+Fnr-2,mdtM
+Fnr-2,yjjP
+Fnr-2,yjjI
+Fnr-2,blr
+Fnr-2,cydX
+Fnr-2,ghoT
+Fnr-2,mntS
+Fnr-2,yqiD
+Microaerobic,hyaA
+Microaerobic,hyaB
+Microaerobic,hyaC
+Microaerobic,hyaD
+Microaerobic,hyaE
+Microaerobic,hyaF
+Cysteine-2,gsiC
+Cysteine-2,gsiD
+Cysteine-2,cysM
+Cysteine-2,cysA
+Cysteine-2,cysU
+Cysteine-2,cysP
+Cysteine-2,cysC
+Cysteine-2,cysH
+Cysteine-2,cysI
+ydfW,fixX
+ydfW,ydfW
+ydfW,icdC
+YcjW,metQ
+YcjW,ycjM
+YcjW,ycjN
+YcjW,ycjO
+YcjW,ycjP
+YcjW,ycjQ
+YcjW,ycjR
+YcjW,ycjS
+YcjW,ycjT
+YcjW,ycjU
+YcjW,ycjV
+YcjW,ompG
+YcjW,ycjW
+YcjW,ynfM
+YcjW,menI
+YcjW,ydiJ
+YcjW,ymjB
+PAL Amp,galM
+PAL Amp,galK
+PAL Amp,galT
+PAL Amp,galE
+PAL Amp,yfjJ
+PAL Amp,galR
+PAL Amp,galP
+PAL Amp,yhjY
+PAL Amp,tag
+PAL Amp,yiaC
+PAL Amp,bisC
+PAL Amp,yiaD
+PAL Amp,ghrB
+PAL Amp,yiaF
+PAL Amp,yiaG
+PAL Amp,cspA
+PAL Amp,insJ
+PAL Amp,glyS
+PAL Amp,glyQ
+PAL Amp,wecH
+PAL Amp,bax
+PAL Amp,avtA
+PAL Amp,plaR
+PAL Amp,yiaT
+PAL Amp,yiaU
+PAL Amp,yiaW
+PAL Amp,aldB
+PAL Amp,selB
+PAL Amp,selA
+PAL Amp,yibF
+PAL Amp,yibJ
+PAL Amp,yibG
+PAL Amp,yibL
+PAL Amp,trmL
+PAL Amp,cysE
+PAL Amp,gpsA
+PAL Amp,secB
+PAL Amp,grxC
+PAL Amp,yibN
+PAL Amp,gpmM
+PAL Amp,envC
+PAL Amp,yibQ
+PAL Amp,waaH
+PAL Amp,tdh
+PAL Amp,kbl
+PAL Amp,htrL
+PAL Amp,rfaD
+PAL Amp,waaF
+PAL Amp,waaC
+PAL Amp,waaU
+PAL Amp,waaZ
+PAL Amp,waaY
+PAL Amp,waaJ
+PAL Amp,waaO
+PAL Amp,waaB
+PAL Amp,waaS
+PAL Amp,waaP
+PAL Amp,waaG
+PAL Amp,waaQ
+PAL Amp,waaA
+PAL Amp,coaD
+PAL Amp,mutM
+PAL Amp,yicR
+PAL Amp,dfp
+PAL Amp,dut
+PAL Amp,slmA
+PAL Amp,rph
+PAL Amp,yicC
+PAL Amp,dinD
+PAL Amp,yicG
+PAL Amp,ligB
+PAL Amp,gmk
+PAL Amp,rpoZ
+PAL Amp,spoT
+PAL Amp,trmH
+PAL Amp,recG
+PAL Amp,gltS
+PAL Amp,yicH
+PAL Amp,yicL
+PAL Amp,nlpA
+PAL Amp,nepI
+PAL Amp,yicN
+PAL Amp,adeQ
+PAL Amp,ysaB
+PAL Amp,yibT
+PAL Amp,yicS
+PAL Amp,yibV
+PAL Amp,yibS
+Propionate,prpB
+Propionate,prpC
+Propionate,prpD
+Propionate,prpE
+CP4-44,flu
+CP4-44,yeeR
+CP4-44,yeeS
+CP4-44,yeeT
+minicoli KOs,thiB
+minicoli KOs,prfH
+minicoli KOs,yagN
+minicoli KOs,intF
+minicoli KOs,betI
+minicoli KOs,betT
+minicoli KOs,codA
+minicoli KOs,frmB
+minicoli KOs,frmA
+minicoli KOs,frmR
+minicoli KOs,ddlA
+minicoli KOs,tesA
+minicoli KOs,allR
+minicoli KOs,gcl
+minicoli KOs,hyi
+minicoli KOs,borD
+minicoli KOs,ompT
+minicoli KOs,ybdG
+minicoli KOs,nfsB
+minicoli KOs,uspG
+minicoli KOs,rnk
+minicoli KOs,rna
+minicoli KOs,cspE
+minicoli KOs,rlmF
+minicoli KOs,rimO
+minicoli KOs,ybjC
+minicoli KOs,nfsA
+minicoli KOs,rimK
+minicoli KOs,ybjN
+minicoli KOs,artI
+minicoli KOs,artP
+minicoli KOs,ycdX
+minicoli KOs,ycdY
+minicoli KOs,opgC
+minicoli KOs,opgG
+minicoli KOs,opgH
+minicoli KOs,ynaJ
+minicoli KOs,fnr
+minicoli KOs,ttcA
+minicoli KOs,rlhA
+minicoli KOs,ydcY
+minicoli KOs,marR
+minicoli KOs,marA
+minicoli KOs,marB
+minicoli KOs,rspR
+minicoli KOs,cspI
+minicoli KOs,ynfB
+minicoli KOs,pncA
+minicoli KOs,dgcP
+minicoli KOs,ftnA
+minicoli KOs,yecF
+minicoli KOs,yedD
+minicoli KOs,wbbJ
+minicoli KOs,wbbI
+minicoli KOs,glf
+minicoli KOs,rfbC
+minicoli KOs,rfbA
+minicoli KOs,rfbD
+minicoli KOs,rfbB
+minicoli KOs,yegD
+minicoli KOs,trhP
+minicoli KOs,yehS
+minicoli KOs,yeiI
+minicoli KOs,menE
+minicoli KOs,menC
+minicoli KOs,menB
+minicoli KOs,menH
+minicoli KOs,menD
+minicoli KOs,yfcD
+minicoli KOs,yfcE
+minicoli KOs,folX
+minicoli KOs,intS
+minicoli KOs,yfdG
+minicoli KOs,yfdH
+minicoli KOs,rnlA
+minicoli KOs,lhgD
+minicoli KOs,gabD
+minicoli KOs,gabT
+minicoli KOs,stpA
+minicoli KOs,queF
+minicoli KOs,sdaC
+minicoli KOs,sdaB
+minicoli KOs,ygdG
+minicoli KOs,rlmM
+minicoli KOs,ygdD
+minicoli KOs,gcvA
+minicoli KOs,csdA
+minicoli KOs,yggE
+minicoli KOs,mscS
+minicoli KOs,mqsA
+minicoli KOs,mqsR
+minicoli KOs,mdaB
+minicoli KOs,ygiN
+minicoli KOs,yqiH
+minicoli KOs,rlmG
+minicoli KOs,yhhX
+minicoli KOs,yhiN
+minicoli KOs,yiaD
+minicoli KOs,ghrB
+minicoli KOs,yiaF
+minicoli KOs,cspA
+minicoli KOs,bax
+minicoli KOs,avtA
+minicoli KOs,nepI
+minicoli KOs,yidA
+minicoli KOs,glnA
+minicoli KOs,gltP
+minicoli KOs,yjdM
+minicoli KOs,lysU
+minicoli KOs,ytfP
+minicoli KOs,iadA
+minicoli KOs,yjiX
+minicoli KOs,gnsA
+minicoli KOs,yecJ
+minicoli KOs,wbbL
+GadXW,glsA
+GadXW,ybaT
+GadXW,gadC
+GadXW,gadB
+GadXW,rcsB
+GadXW,yhiM
+GadXW,slp
+GadXW,dctR
+GadXW,yhiD
+GadXW,hdeB
+GadXW,hdeA
+GadXW,hdeD
+GadXW,gadE
+GadXW,mdtE
+GadXW,mdtF
+GadXW,gadA
+GadXW,aidB
+GadXW,yjjU
+GadXW,yjjV
+Rhamnose,rhaM
+Rhamnose,rhaD
+Rhamnose,rhaA
+Rhamnose,rhaB
+Rhamnose,rhaS
+Rhamnose,rhaR
+Rhamnose,rhaT
+Rhamnose,sgrT
+UC-2,cra
+UC-2,sfsA
+UC-2,dxr
+UC-2,yaiZ
+UC-2,glsA
+UC-2,ylbH
+UC-2,glxK
+UC-2,acrZ
+UC-2,ybhC
+UC-2,fsaA
+UC-2,potH
+UC-2,hcr
+UC-2,cydD
+UC-2,ycaR
+UC-2,kdsB
+UC-2,mukF
+UC-2,aspC
+UC-2,pepN
+UC-2,zapC
+UC-2,hyaA
+UC-2,ymcE
+UC-2,csgC
+UC-2,yceM
+UC-2,potB
+UC-2,ompW
+UC-2,abgA
+UC-2,ldhA
+UC-2,ydcV
+UC-2,patD
+UC-2,sra
+UC-2,ydgH
+UC-2,yodC
+UC-2,yedI
+UC-2,yedA
+UC-2,cobT
+UC-2,cobS
+UC-2,yegR
+UC-2,mrp
+UC-2,yfaZ
+UC-2,nuoK
+UC-2,nuoJ
+UC-2,nuoI
+UC-2,dedA
+UC-2,truA
+UC-2,alaC
+UC-2,glk
+UC-2,maeB
+UC-2,guaB
+UC-2,ascG
+UC-2,rpoS
+UC-2,nlpD
+UC-2,ygbE
+UC-2,cysC
+UC-2,queE
+UC-2,rlmD
+UC-2,gcvP
+UC-2,yggR
+UC-2,yggN
+UC-2,hybC
+UC-2,hldE
+UC-2,ygiF
+UC-2,yraR
+UC-2,yhbO
+UC-2,yrdB
+UC-2,aroE
+UC-2,kefG
+UC-2,pabA
+UC-2,trpS
+UC-2,asd
+UC-2,livJ
+UC-2,ftsE
+UC-2,ftsY
+UC-2,yhhH
+UC-2,bcsQ
+UC-2,yhjR
+UC-2,dppB
+UC-2,xylB
+UC-2,rbsD
+UC-2,ilvY
+UC-2,dapF
+UC-2,yigA
+UC-2,zraR
+UC-2,yjaA
+UC-2,pgi
+UC-2,ghxP
+UC-2,yjdI
+UC-2,nsrR
+UC-2,lptF
+UC-2,yjjU
+UC-2,yjjV
+UC-2,lplA
+UC-2,ytjB
+UC-2,hokB
+UC-2,yghX
+UC-2,yneO
+UC-2,ybgU
+ydfB,ydfB
+NrdR,sodB
+NrdR,nrdH
+NrdR,nrdI
+NrdR,nrdE
+NrdR,nrdF
+NrdR,nrdG
+NrdR,nrdD
+Purine,purK
+Purine,purE
+Purine,folD
+Purine,pyrC
+Purine,purB
+Purine,add
+Purine,punC
+Purine,ydiJ
+Purine,purT
+Purine,purF
+Purine,cvpA
+Purine,purC
+Purine,purM
+Purine,purN
+Purine,glyA
+Purine,purL
+Purine,serA
+Purine,xanP
+Purine,adeP
+Purine,purD
+Purine,purH
+Purine,ghxP
+cyoB/ndh/nuoB KO-1,cyoB
+cyoB/ndh/nuoB KO-1,ndh
+cyoB/ndh/nuoB KO-1,nuoB
+Fimbriae,thrA
+Fimbriae,fimA
+Fimbriae,fimI
+Fimbriae,fimC
+Fimbriae,fimD
+Fimbriae,fimF
+Fimbriae,fimG
+Fimbriae,fimH
+IS Elements-1,insH1
+IS Elements-1,insA3
+IS Elements-1,insF2
+IS Elements-1,insE2
+IS Elements-1,insH2
+IS Elements-1,insH3
+IS Elements-1,ymcE
+IS Elements-1,insF4
+IS Elements-1,insE4
+IS Elements-1,pinR
+IS Elements-1,ynaE
+IS Elements-1,insD2
+IS Elements-1,insC2
+IS Elements-1,insH6
+IS Elements-1,insD3
+IS Elements-1,insC3
+IS Elements-1,insH7
+IS Elements-1,insH8
+IS Elements-1,insD4
+IS Elements-1,insC4
+IS Elements-1,insH10
+IS Elements-1,insH11
+IS Elements-1,insI3
+IS Elements-1,yohO
+Cra,cra
+Cra,adhE
+Cra,ppsA
+Cra,gapA
+Cra,psuG
+Cra,psuK
+Cra,fruA
+Cra,fruK
+Cra,fruB
+Cra,glk
+Cra,fbaA
+Cra,pgk
+Cra,epd
+Cra,nirB
+Cra,gpmM
+Cra,pfkA
+Cra,fbp
+Hot TALE 16,dgt
+Hot TALE 16,bhsA
+Hot TALE 16,ydiY
+Hot TALE 16,yfdI
+Hot TALE 16,gspG
+Hot TALE 16,livF
+Hot TALE 16,livG
+Hot TALE 16,livM
+Hot TALE 16,uspB
+Hot TALE 16,ilvM
+Hot TALE 16,metE
+Hot TALE 16,metB
+Hot TALE 16,metL
+Hot TALE 16,frdD
+Hot TALE 16,frdC
+Hot TALE 16,frdB
+Hot TALE 16,cpxP
+Suf System,sufE
+Suf System,sufS
+Suf System,sufD
+Suf System,sufC
+Suf System,sufB
+Suf System,sufA
+PlaR,plaR
+PlaR,yiaK
+PlaR,yiaL
+PlaR,yiaM
+PlaR,yiaN
+PlaR,yiaO
+PlaR,lyxK
+PlaR,sgbH
+PlaR,sgbU
+PlaR,sgbE
+NO Stress,carB
+NO Stress,hcr
+NO Stress,hcp
+NO Stress,fdnH
+NO Stress,fdnI
+NO Stress,yoaG
+NO Stress,yeaR
+NO Stress,hmp
+NO Stress,ygbA
+NO Stress,ubiC
+NO Stress,ytfE
+Maltose,malQ
+Maltose,malP
+Maltose,malS
+Maltose,malG
+Maltose,malF
+Maltose,malE
+Maltose,malK
+Maltose,lamB
+Maltose,malM
+Tyr/Trp/Phe,aroP
+Tyr/Trp/Phe,aroL
+Tyr/Trp/Phe,yaiA
+Tyr/Trp/Phe,trpC
+Tyr/Trp/Phe,trpD
+Tyr/Trp/Phe,trpE
+Tyr/Trp/Phe,aroH
+Tyr/Trp/Phe,tyrP
+Tyr/Trp/Phe,tyrA
+Tyr/Trp/Phe,aroF
+Tyr/Trp/Phe,yfiL
+Tyr/Trp/Phe,tyrB
+GadX,ybaT
+GadX,gadC
+GadX,cnu
+GadX,yhiM
+GadX,hdeB
+GadX,hdeA
+GadX,mdtE
+GadX,mdtF
+GadX,aidB
+Fatty Acid,fadE
+Fatty Acid,fadR
+Fatty Acid,fadJ
+Fatty Acid,fadI
+Fatty Acid,fadH
+Fatty Acid,fadA
+Fatty Acid,fadB
+DhaR,ptsG
+DhaR,dhaM
+DhaR,dhaL
+DhaR,dhaK
+DhaR,manX
+DhaR,manY
+DhaR,manZ
+DhaR,ptsI
+DhaR,galP
+DhaR,malT
+DhaR,mtlA
+DhaR,mtlD
+DhaR,mtlR
+pts KO,galT
+pts KO,galE
+pts KO,dhaM
+pts KO,dhaL
+pts KO,dhaK
+pts KO,ptsH
+pts KO,ptsI
+pts KO,crr
+pts KO,galP
+pts KO,mtlA
+pts KO,mtlD
+pts KO,mtlR
+pts KO,ybgU
+gcvB,yafU
+gcvB,yagL
+gcvB,yagM
+gcvB,matA
+gcvB,yahL
+gcvB,ybbC
+gcvB,ylbH
+gcvB,ybbD
+gcvB,ybcK
+gcvB,ybcV
+gcvB,citR
+gcvB,chiQ
+gcvB,ybfB
+gcvB,yccE
+gcvB,iraM
+gcvB,ycgX
+gcvB,ycgY
+gcvB,ynaI
+gcvB,rcbA
+gcvB,kilR
+gcvB,ydcD
+gcvB,yncI
+gcvB,yddJ
+gcvB,yddK
+gcvB,yneK
+gcvB,ynfN
+gcvB,ydjO
+gcvB,torY
+gcvB,yehA
+gcvB,elaD
+gcvB,yfdF
+gcvB,yfjI
+gcvB,yfjJ
+gcvB,ypjB
+gcvB,ypjC
+gcvB,yqeJ
+gcvB,yqeK
+gcvB,ygeF
+gcvB,ygeG
+gcvB,ygeH
+gcvB,ygeK
+gcvB,ygeL
+gcvB,ygeN
+gcvB,yhaB
+gcvB,yhaC
+gcvB,yhhZ
+gcvB,yrhA
+gcvB,yhhH
+gcvB,yhiJ
+gcvB,yhiS
+gcvB,yibG
+gcvB,bglG
+gcvB,yigF
+gcvB,yigG
+gcvB,yiiE
+gcvB,arpA
+gcvB,yjbI
+gcvB,yjbL
+gcvB,yjbM
+gcvB,yjcF
+gcvB,ytfI
+gcvB,yzfA
+gcvB,yjgN
+gcvB,ygaQ
+gcvB,yedN
+gcvB,yeeL
+gcvB,ybfQ
+gcvB,yniD
+gcvB,ykfM
+gcvB,yrhD
+gcvB,yibV
+gcvB,yjbS
+gcvB,yibS
+gcvB,yhiL
+gcvB,ylcJ
+gcvB,yncO
+Glutarate,glaH
+Glutarate,lhgD
+Glutarate,gabD
+Glutarate,gabT
+Glutarate,gabP
+entC/ubiC KO-2,entC
+entC/ubiC KO-2,glsB
+entC/ubiC KO-2,sad
+entC/ubiC KO-2,proQ
+entC/ubiC KO-2,ubiA
+Oxidoreductase,ydhW
+Oxidoreductase,ydhV
+Oxidoreductase,ydhY
+Oxidoreductase,feoA
+Oxidoreductase,ynfO
+UC-7,paoA
+UC-7,ybdK
+UC-7,uspG
+UC-7,ybeL
+UC-7,fiu
+UC-7,bssR
+UC-7,dacC
+UC-7,ycaC
+UC-7,cbpM
+UC-7,cbpA
+UC-7,yccJ
+UC-7,wrbA
+UC-7,yciG
+UC-7,adhP
+UC-7,flxA
+UC-7,katE
+UC-7,yebV
+UC-7,flhD
+UC-7,yodD
+UC-7,hchA
+UC-7,yohC
+UC-7,kbp
+UC-7,yghG
+UC-7,yhjD
+UC-7,yhjG
+UC-7,yjdN
+UC-7,yjdI
+UC-7,yjdJ
+UC-7,ghoS
+UC-7,aidB
+UC-7,yjfN
+UC-7,ghoT
+Efflux Pump,mdtI
+Efflux Pump,mdtJ
+Tryptophanase,tnaA
+Tryptophanase,tnaB
+crp KO-2,glpA
+crp KO-2,glpB
+crp KO-2,glpC
+crp KO-2,crp
+crp KO-2,glpK
+crp KO-2,glpF
+cyoB/ndh/nuoB KO-2,aceE
+cyoB/ndh/nuoB KO-2,cyoB
+cyoB/ndh/nuoB KO-2,cydA
+cyoB/ndh/nuoB KO-2,ndh
+cyoB/ndh/nuoB KO-2,ycfJ
+cyoB/ndh/nuoB KO-2,xisR
+cyoB/ndh/nuoB KO-2,menF
+cyoB/ndh/nuoB KO-2,ubiC
+cyoB/ndh/nuoB KO-2,ubiA
+tpiA KO,phoE
+tpiA KO,phoA
+tpiA KO,ptsG
+tpiA KO,nemR
+tpiA KO,nemA
+tpiA KO,gloA
+tpiA KO,yqhD
+tpiA KO,dkgA
+tpiA KO,sbp
+tpiA KO,tpiA
+Phage Shock,pspA
+Phage Shock,pspB
+Phage Shock,pspC
+Phage Shock,pspD
+Phage Shock,spy
+Phage Shock,pspG
+Glyoxylate,aceB
+Glyoxylate,aceA
+Glyoxylate,aceK
+CCK-PGI Del,intR
+CCK-PGI Del,xisR
+CCK-PGI Del,rcbA
+CCK-PGI Del,racR
+CCK-PGI Del,ydaS
+CCK-PGI Del,ydaT
+CCK-PGI Del,ydaU
+CCK-PGI Del,ydaV
+CCK-PGI Del,ydaW
+CCK-PGI Del,trkG
+CCK-PGI Del,ydaY
+CCK-PGI Del,hiuH
+CCK-PGI Del,sthA
+CCK-PGI Del,ysaB
+CCK-PGI Del,ynaM
+Acetate,aldA
+Acetate,mokB
+Acetate,dicB
+Acetate,mqo
+Acetate,actP
+Acetate,yjcH
+Acetate,acs
+Ile/Val,uhpA
+Ile/Val,ilvN
+Ile/Val,ilvB
+Ile/Val,ymjB
+UC-8,sfsA
+UC-8,yaiA
+UC-8,bolA
+UC-8,asnB
+UC-8,lsrR
+UC-8,pphA
+UC-8,fadL
+UC-8,uspB
+UC-8,ytfQ
