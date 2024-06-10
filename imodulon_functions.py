@@ -15,7 +15,7 @@ init_notebook_mode(connected=True)
 def learn_about_imodulons():
     
     """Returns detailed information about iModulons, their role in gene regulation, and their applications."""
-    print("   Fetching information about imodulons")
+    print("\n\n   Fetching information about imodulons\n\n")
     with open('data_files/about_imodulons.txt', 'r') as file:
         content = file.read()
     return content
@@ -46,7 +46,7 @@ def find_closest_gene(gene_names: list):
     
     """Finds the closest genes. Use to confirm user input genes exist"""
     
-    print(f"\n   Finding closest genes to {gene_names}\n")
+    print(f"\n\n   Finding closest genes to {gene_names}\n\n")
     gene_list = pd.read_csv('data_files/gene_info.csv').iloc[:, 0].tolist()
     gene_list_lower = [str(gene).lower() for gene in gene_list]
     result = {}
@@ -63,11 +63,12 @@ def find_closest_gene(gene_names: list):
 
 @tool
 def find_closest_condition(user_inputs: list):
-    
-    '''
+    """
     Finds the closest condition based on the specified criteria.
-   
+
     Relevant columns and example entries:
+       - study: ['Control']
+       - condition: ['delfur_dpd']
        - strain description: ['Escherichia coli K-12 MG1655']
        - strain: ['MG1655']
        - culture type: ['Batch']
@@ -82,32 +83,49 @@ def find_closest_condition(user_inputs: list):
        - supplement: ['DPD (0.2mM)']
        - antibiotic for selection: ['Kanamycin (50 ug/mL)']
        
-    The input MUST use the criteria in the input.
+    The input MUST use the criteria in the input otherwise it'll cause a fatal error.
     Example usage:
        find_closest_condition(["base media: M9, supplement: FeCl2 (0.1mM)", "strain: MG1655, base media: LB"])
-    '''
-    
-    print(f"\n   Finding closest conditions to {user_inputs}\n")
-    def normalize_row(row):
-        return {key.lower(): str(row[key]).lower() for key in user_input_dict.keys()}
+    INCORRECT usage: 
+        find_closest_condition(["wildtype M9"])
+    """
+
+    print(f"\n\n   Finding closest conditions to {user_inputs}\n\n")
     df = pd.read_csv('data_files/sample_table.csv')
     results = {}
+
     for user_input in user_inputs:
         user_input_dict = {}
         for pair in user_input.split(","):
-            key, value = pair.split(":")
-            user_input_dict[key.strip().lower()] = value.strip().lower()
+            if ":" in pair:
+                key, value = pair.split(":")
+                user_input_dict[key.strip().lower()] = value.strip().lower()
+            else:
+                user_input_dict["condition"] = user_input.strip().lower()
+
+
+        direct_match = df[df['condition'].str.lower().str.contains(user_input_dict.get("condition", ""))]
+        if not direct_match.empty:
+            results[user_input] = direct_match['condition'].tolist()
+            continue
+        def normalize_row(row):
+            return {key.lower(): str(row[key]).lower() for key in user_input_dict.keys()}
+
         normalized_rows = df.apply(normalize_row, axis=1)
         closest_matches = []
+
         for index, row in normalized_rows.items():
             match_score = sum([user_input_dict[key] == row[key] for key in user_input_dict.keys()])
             closest_matches.append((index, match_score))
+
         closest_matches = sorted(closest_matches, key=lambda x: x[1], reverse=True)
         closest_conditions = df.iloc[[match[0] for match in closest_matches[:5]]]['condition'].tolist()
+        
         if closest_conditions:
             results[user_input] = closest_conditions
         else:
             results[user_input] = "No condition match"
+
     return results
 
 
@@ -116,7 +134,7 @@ def get_genes_of_imodulons(imodulon_names: list):
     
     """Returns the genes of given imodulons."""
     
-    print(f"\n   Getting genes of {imodulon_names} iModulons\n")
+    print(f"\n\n   Getting genes of {imodulon_names} iModulons\n\n")
     df = pd.read_csv('data_files/gene_presence_list.csv')
     imodulon_list = df['iModulon'].unique().tolist()
     result = {}
@@ -134,7 +152,7 @@ def get_condition_info(condition_names: list):
     
     """Returns the information of given experimental conditions."""
     
-    print(f"\n   Retrieving info of {condition_names} conditions\n")
+    print(f"\n\n   Retrieving info of {condition_names} conditions\n\n")
     df = pd.read_csv('data_files/sample_table.csv')
     condition_list = df['condition'].unique().tolist()
     
@@ -152,11 +170,10 @@ def get_condition_info(condition_names: list):
 def get_gene_info(gene_names: list):
     """
     Returns the information of up to 4 given genes at a time.
-    If more than 4 genes are provided, only the first 4 will be processed.
+    If more than 4 genes are provided, only the first 4 will be processed. 
+    Use this tool when asked form information of specific genes.
     """
-    import pandas as pd
 
-    # Limit to 4 genes
     gene_names = gene_names[:4]
     
     print(f"\nRetrieving info of {gene_names} genes\n")
@@ -177,17 +194,22 @@ def get_gene_info(gene_names: list):
 @tool
 def get_imodulon_info(imodulon_names: list):
     
-    """Returns the information of given imodulons."""
+    """Returns the information of given imodulons. Use this tool when asked form information of specific imodulons"""
 
-    print(f"\n   Retrieving info of {imodulon_names} imodulons\n")
-    df = pd.read_csv('data_files/iM_table.csv')
+    print(f"\n\n   Retrieving info of {imodulon_names} imodulons\n\n")
+    imodulon_df = pd.read_csv('data_files/iM_table.csv')
+    gene_presence_df = pd.read_csv('data_files/gene_presence_list.csv')
     result = {}
     for imodulon_name in imodulon_names:
-        imodulon_info = df[df['iModulon'] == imodulon_name]
-        if not imodulon_info.empty:
-            result[imodulon_name] = imodulon_info.to_dict(orient='records')[0]
-        else:
-            result[imodulon_name] = f"No information found for '{imodulon_name}'. Please use find_closest_imodulon tool to double-check before prompting the user again."
+       imodulon_info = imodulon_df[imodulon_df['iModulon'] == imodulon_name]
+       if not imodulon_info.empty:
+           imodulon_info_dict = imodulon_info.to_dict(orient='records')[0]
+           genes = gene_presence_df[gene_presence_df['iModulon'] == imodulon_name]['Gene'].tolist()
+           imodulon_info_dict['Genes'] = genes if genes else "No genes found for the specified iModulon"
+           
+           result[imodulon_name] = imodulon_info_dict
+       else:
+           result[imodulon_name] = f"No information found for '{imodulon_name}'. Please use find_closest_imodulon tool to double-check before prompting the user again."
     return result
 
 
@@ -196,8 +218,9 @@ def plot_gene_expression(gene_name: str):
     """
     This function generates a bar plot showing the expression levels of the specified gene across the experimental conditions.
     The conditions are grouped by their studies, and detailed metadata is displayed when hovering over each bar.
+    Returns expression of conditions with highest and lowest expression, and the expression in the control condition.
     """
-    print(f"\n   Plotting {gene_name} expression\n")
+    print(f"\n\n   Plotting {gene_name} expression\n\n")
     
     # Load the activity matrix
     A = pd.read_csv('data_files/log_tpm.csv', index_col=0)
@@ -360,15 +383,27 @@ def plot_gene_expression(gene_name: str):
     ))
     
     iplot(fig, filename="gene_plot")
-    return "Plot generated successfully"
+
+    top_5_highest = grouped_data.nlargest(5, 'Activity_mean')[['condition_study', 'Activity_mean']].values.tolist()
+    top_5_lowest = grouped_data.nsmallest(5, 'Activity_mean')[['condition_study', 'Activity_mean']].values.tolist()
+    control_condition = 'wt_glc'
+    control_activity = grouped_data[grouped_data['condition'] == control_condition][['condition_study', 'Activity_mean']].values.tolist()
+    
+    return {
+        "plot status": "Plot generated successfully",
+        "top 5 highest (condition (study))": top_5_highest,
+        "top 5 lowest (condition (study))": top_5_lowest,
+        "control activity (condition (study))": control_activity if control_activity else "Control condition not found"
+    }
 
 @tool
 def plot_imodulon_activity(imodulon_name: str):
     """
     This function creates a bar plot depicting the activity levels of the specified iModulon across experimental conditions.
     The conditions are grouped by their studies, and detailed metadata is shown when hovering over each bar.
+    Returns activity of conditions with highest and lowest expression, and the activity in the control condition.
     """
-    print(f"\n   Plotting {imodulon_name} activity\n")
+    print(f"\n\n   Plotting {imodulon_name} activity\n\n")
     
     # Load the activity matrix
     A = pd.read_csv('data_files/A.csv', index_col=0)
@@ -529,7 +564,18 @@ def plot_imodulon_activity(imodulon_name: str):
     ))
     
     iplot(fig, filename="imodulon_plot")
-    return "Plot generated successfully\n"
+    
+    top_5_highest = grouped_data.nlargest(5, 'Activity_mean')[['condition_study', 'Activity_mean']].values.tolist()
+    top_5_lowest = grouped_data.nsmallest(5, 'Activity_mean')[['condition_study', 'Activity_mean']].values.tolist()
+    control_condition = 'wt_glc'
+    control_activity = grouped_data[grouped_data['condition'] == control_condition][['condition_study', 'Activity_mean']].values.tolist()
+    
+    return {
+        "plot status": "Plot generated successfully",
+        "top 5 highest (condition (study))": top_5_highest,
+        "top 5 lowest (condition (study))": top_5_lowest,
+        "control activity (condition (study))": control_activity if control_activity else "Control condition not found"
+    }
 
 
 @tool
@@ -537,8 +583,9 @@ def plot_all_imodulon_activities_for_condition(condition_name: str):
     """
     This function creates a bar plot depicting the activity levels of all iModulons in a specified condition.
     The activities are grouped by iModulons, and detailed metadata is shown when hovering over each bar.
+    
     """
-    print(f"\n   Plotting all iModulon activities for condition: {condition_name}\n")
+    print(f"\n\n   Plotting all iModulon activities for condition: {condition_name}\n\n")
     
     # Load the activity matrix
     A = pd.read_csv('data_files/A.csv', index_col=0)
@@ -618,16 +665,24 @@ def plot_all_imodulon_activities_for_condition(condition_name: str):
     ))
     
     iplot(fig, filename="all_imodulon_activities_for_condition_plot")
-    return "Plot generated successfully\n"
+    top_5_highest = data.nlargest(5, 'Activity')[['iModulon', 'Activity']].values.tolist()
+    top_5_lowest = data.nsmallest(5, 'Activity')[['iModulon', 'Activity']].values.tolist()
+    
+    return {
+        "plot status": "Plot generated successfully",
+        "top 5 highest (iModulon)": top_5_highest,
+        "top 5 lowest (iModulon)": top_5_lowest
+    }
+
 
 @tool
 def compare_gene_expression(gene1: str, gene2: str):
     """
     This function creates a scatter plot comparing the expression levels of two specified genes across various conditions.
-    It includes a Pearson correlation line and displays detailed metadata when hovering over each point.
+    Returns outliers
     """
     
-    print(f"\n   Plotting {gene1} and {gene2} gene expression\n")
+    print(f"\n\n   Plotting {gene1} and {gene2} gene expression\n\n")
     # Load the activity matrix
     A = pd.read_csv('data_files/log_tpm.csv', index_col=0)
     if gene1 not in A.index:
@@ -793,9 +848,9 @@ def compare_gene_expression(gene1: str, gene2: str):
 def compare_imodulon_activities(imodulon1: str, imodulon2: str):
     """
     This function generates a scatter plot comparing the activity levels of two specified iModulons across experimental conditions.
-    It includes a Pearson correlation line and shows detailed metadata when hovering over each point.
+    It shows detailed metadata when hovering over each point.
     """
-    print(f"\n   Plotting {imodulon1} and {imodulon2} imodulon activities\n")
+    print(f"\n\n   Plotting {imodulon1} and {imodulon2} imodulon activities\n\n")
     
     # Load the activity matrix
     A = pd.read_csv('data_files/A.csv', index_col=0)
@@ -955,10 +1010,9 @@ def compare_imodulon_activities(imodulon1: str, imodulon2: str):
 def plot_dima(condition1: str, condition2: str):
     """
     This function creates a scatter plot comparing the activity levels of all iModulons between two specified conditions.
-    Outliers are highlighted and labeled, and a Pearson correlation line is included.
     Hovering over each point displays the iModulon name and activity levels.
     """
-    print(f"\n   Plotting Differential iModulon Activity plot of {condition1} and {condition2} imodulons\n")
+    print(f"\n\n   Plotting Differential iModulon Activity plot of {condition1} and {condition2} imodulons\n\n")
     
     # Load the activity matrix
     A = pd.read_csv('data_files/A.csv', index_col=0)
@@ -1088,18 +1142,26 @@ def execute_python_code(code: str):
     """
     Executes the given Python code. The data has already been loaded into the following variables:
         imodulon_list_df, gene_list_df, sample_table_df, gene_presence_df, iM_table_df, log_tpm_df, A_df
-
+        Ensure that the code written outputs the desired information into a variable or print statement for it to be successfully returned.
+       
+    
     Args:
     code (str): The Python code to be executed.
-
+    
     Returns:
     str: The output or result of the executed code, or an error message if execution fails.
     
-    Example usage:
-    execute_python_code("print('Hello, World!')")
+    Example of correct syntax usage:
+    'code': print('Hello, World!')
+    
+    'code': average_activity = A_df.mean(axis=1)\nprint(average_activity)
+    
+    Example of incorrect usage:
+    'code': 'print('Hello, World!')'  # Uses single quotes
+    'code': "print('Hello, World!')" #Uses double quotes
     """
     
-    print(f"\n   Executing Python code:\n{code}\n")
+    print(f"\n\n   Executing Python code:\n{code}\n\n")
     imodulon_list_df = pd.read_csv('data_files/iM_table.csv')
     gene_list_df = pd.read_csv('data_files/gene_info.csv')
     sample_table_df = pd.read_csv('data_files/sample_table.csv')
